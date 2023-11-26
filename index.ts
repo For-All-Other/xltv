@@ -1,6 +1,27 @@
 import fetch from "node-fetch";
 import fs from "fs/promises";
 
+// Constants
+const MATCH_API_URL = "https://api.vebo.xyz/api/match/fixture/home/20231126";
+const META_API_URL = "https://api.vebo.xyz/api/match/";
+
+// Custom Error Classes
+class HttpError extends Error {
+  constructor(status: number) {
+    super(`HTTP error! Status: ${status}`);
+    this.name = "HttpError";
+  }
+}
+
+class UnexpectedDataError extends Error {
+  constructor(message: string) {
+    super(`Unexpected data format: ${message}`);
+    this.name = "UnexpectedDataError";
+  }
+}
+
+// Interface definitions
+
 interface Match {
   is_live: boolean;
   id: string;
@@ -20,46 +41,41 @@ interface MetaData {
   id: string;
 }
 
+// Fetch live matches
 async function getLiveMatches(): Promise<Match[]> {
   try {
-    const url = "https://api.vebo.xyz/api/match/fixture/home/20231126";
-
-    const response = await fetch(url);
+    const response = await fetch(MATCH_API_URL);
 
     if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
+      throw new HttpError(response.status);
     }
 
     const responseData = (await response.json()) as { data: Match[] };
 
     if (!Array.isArray(responseData.data)) {
-      throw new Error("Unexpected data format");
+      throw new UnexpectedDataError("Response data is not an array");
     }
 
     return responseData.data.filter((entry) => entry.is_live);
   } catch (error) {
-    console.error(
-      "Error fetching live match data:",
-      error instanceof Error ? error.message : error
-    );
+    console.error("Error fetching live match data:", error);
     return [];
   }
 }
 
+// Fetch filtered play URLs for a given match ID
 async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
   try {
-    const metaUrl = `https://api.vebo.xyz/api/match/${id}/meta`;
-
-    const response = await fetch(metaUrl);
+    const response = await fetch(`${META_API_URL}${id}/meta`);
 
     if (!response.ok) {
-      throw new Error(`HTTP error! Status: ${response.status}`);
+      throw new HttpError(response.status);
     }
 
     const responseData = (await response.json()) as { data: MetaData };
 
     if (!responseData.data) {
-      throw new Error("Unexpected meta data format");
+      throw new UnexpectedDataError("No meta data found");
     }
 
     const filteredPlayUrls = responseData.data.play_urls.filter(
@@ -68,14 +84,12 @@ async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
 
     return filteredPlayUrls;
   } catch (error) {
-    console.error(
-      "Error fetching meta data:",
-      error instanceof Error ? error.message : error
-    );
+    console.error("Error fetching meta data:", error);
     return null;
   }
 }
 
+// Generate M3U playlist for live matches with filtered play URLs
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
   const playlistContent: string[] = [];
 
@@ -95,6 +109,7 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
   await fs.writeFile("live_matches_playlist.m3u", playlistContent.join("\n"));
 }
 
+// Main function
 async function main() {
   const liveMatches = await getLiveMatches();
   await generateM3UPlaylist(liveMatches);
