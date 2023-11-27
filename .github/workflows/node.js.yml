@@ -17,15 +17,15 @@ jobs:
         run: bun install
       - name: Run script
         run: bun run index.ts
-      - name: Archive production artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: live-matches-playlist
-          path: live_matches_playlist.m3u
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v3
-        with:
-          name: live-matches-playlist
-          path: live-matches-playlist.m3u
-      - name: Display structure of downloaded files
+      # - name: Archive production artifacts
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: live-matches-playlist
+      #     path: live_matches_playlist.m3u
+      # - uses: actions/checkout@v4
+      # - uses: actions/download-artifact@v3
+      #   with:
+      #     name: live-matches-playlist
+      #     path: live-matches-playlist.m3u
+      - name: Display structure of files
         run: ls -R
