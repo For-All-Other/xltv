@@ -23,5 +23,5 @@ jobs:
           git config user.name github-actions || true
           git config user.email github-actions@github.com || true
           git add .
-          git commit -m "Update Playlist (GitHub Actions)"
-          git push -f origin main
+          git diff --exit-code || git commit -m "Update Playlist (GitHub Actions)"
+          git diff --exit-code || git push -f origin main
