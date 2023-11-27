@@ -1,4 +1,4 @@
-name: Node CI
+name: Update Playlist
 
 on:
   push:
@@ -6,22 +6,29 @@ on:
       - main
 
 jobs:
-  build_and_test:
+  update_playlist:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Setup Bun
+
+      - name: Setup bun
         uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
       - name: Install dependencies
         run: bun install
+
       - name: Run script
         run: bun run index.ts
-      - run: |
-          git config user.name github-actions || true
-          git config user.email github-actions@github.com || true
+
+      - name: Push a commit
+        run: |
+          git config user.name update-playlist-bot
+          git config user.email update-playlist-bot@users.noreply.github.com
           git add .
           git diff --exit-code || git commit -m "Update Playlist (GitHub Actions)"
           git diff --exit-code || git push -f origin main
