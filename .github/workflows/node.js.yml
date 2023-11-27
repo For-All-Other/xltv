@@ -22,10 +22,11 @@ jobs:
         with:
           name: live-matches-playlist
           path: live_matches_playlist.m3u
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - run: |
-          git config repo-token: ${{ secrets.GITHUB_TOKEN }}
-          git add .
-          git commit -m "generated"
-          git push
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v3
+        with:
+          name: live-matches-playlist
+          path: live-matches-playlist.m3u
+      - name: Display structure of downloaded files
+        run: ls -R
+      - run: cat live-matches-playlist.m3u
