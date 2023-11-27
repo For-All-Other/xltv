@@ -18,8 +18,8 @@ jobs:
       - name: Run script
         run: bun run index.ts
       - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name github-actions || true
+          git config user.email github-actions@github.com || true
           git add .
-          git commit -m "generated"
-          git push
+          git commit -m "Update Playlist (GitHub Actions)"
+          git push -f origin main
