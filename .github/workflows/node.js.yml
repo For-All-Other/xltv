@@ -11,21 +11,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
       - name: Install dependencies
         run: bun install
       - name: Run script
         run: bun run index.ts
-      # - name: Archive production artifacts
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: live-matches-playlist
-      #     path: live_matches_playlist.m3u
-      # - uses: actions/checkout@v4
-      # - uses: actions/download-artifact@v3
-      #   with:
-      #     name: live-matches-playlist
-      #     path: live-matches-playlist.m3u
-      - name: Display structure of files
-        run: ls -R
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
