@@ -1,8 +1,9 @@
 import fetch from "node-fetch";
-import fs from "fs/promises";
+import { writeFile, mkdir } from "fs/promises";
+import { dirname } from "path";
 
 // Constants
-const MATCH_API_URL = "https://api.vebo.xyz/api/match/fixture/home/20231126";
+const MATCH_API_URL = "https://api.vebo.xyz/api/match/fixture/home/20231127";
 const META_API_URL = "https://api.vebo.xyz/api/match/";
 
 // Custom Error Classes
@@ -21,7 +22,6 @@ class UnexpectedDataError extends Error {
 }
 
 // Interface definitions
-
 interface Match {
   is_live: boolean;
   id: string;
@@ -41,22 +41,27 @@ interface MetaData {
   id: string;
 }
 
+// Fetch data from API
+async function fetchData(url: string): Promise<any> {
+  const response = await fetch(url);
+
+  if (!response.ok) {
+    throw new HttpError(response.status);
+  }
+
+  return response.json();
+}
+
 // Fetch live matches
 async function getLiveMatches(): Promise<Match[]> {
   try {
-    const response = await fetch(MATCH_API_URL);
+    const { data } = await fetchData(MATCH_API_URL);
 
-    if (!response.ok) {
-      throw new HttpError(response.status);
-    }
-
-    const responseData = (await response.json()) as { data: Match[] };
-
-    if (!Array.isArray(responseData.data)) {
+    if (!Array.isArray(data)) {
       throw new UnexpectedDataError("Response data is not an array");
     }
 
-    return responseData.data.filter((entry) => entry.is_live);
+    return data.filter((entry: Match) => entry.is_live);
   } catch (error) {
     console.error("Error fetching live match data:", error);
     return [];
@@ -66,23 +71,15 @@ async function getLiveMatches(): Promise<Match[]> {
 // Fetch filtered play URLs for a given match ID
 async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
   try {
-    const response = await fetch(`${META_API_URL}${id}/meta`);
+    const { data } = await fetchData(`${META_API_URL}${id}/meta`);
 
-    if (!response.ok) {
-      throw new HttpError(response.status);
-    }
-
-    const responseData = (await response.json()) as { data: MetaData };
-
-    if (!responseData.data) {
+    if (!data) {
       throw new UnexpectedDataError("No meta data found");
     }
 
-    const filteredPlayUrls = responseData.data.play_urls.filter(
-      (url) => url.name.includes("HD") || url.name.includes("FullHD")
+    return data.play_urls.filter(
+      (url: PlayUrl) => url.name.includes("HD") || url.name.includes("FullHD")
     );
-
-    return filteredPlayUrls;
   } catch (error) {
     console.error("Error fetching meta data:", error);
     return null;
@@ -90,6 +87,10 @@ async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
 }
 
 // Generate M3U playlist for live matches with filtered play URLs
+function generateM3UEntry(match: Match, url: PlayUrl): string {
+  return `#EXTINF:-1 tvg-id="${match.id}" tvg-name="${match.name}" tvg-logo="${match.tournament.logo}",${match.name} - ${url.name}\n${url.url}\n`;
+}
+
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
   const playlistContent: string[] = [];
 
@@ -97,22 +98,35 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
     const filteredPlayUrls = await getFilteredPlayUrls(match.id);
     if (filteredPlayUrls) {
       filteredPlayUrls.forEach((url) => {
-        // Add each play URL to the playlist with additional information
-        playlistContent.push(
-          `#EXTINF:-1 tvg-id="${match.id}" tvg-name="${match.name}" tvg-logo="${match.tournament.logo}",${match.name} - ${url.name}\n${url.url}\n`
-        );
+        playlistContent.push(generateM3UEntry(match, url));
       });
     }
   }
 
-  // Write the playlist content to a file
-  await fs.writeFile("live_matches_playlist.m3u", playlistContent.join("\n"));
+  const folderPath = "stream";
+  const filePath = `${folderPath}/playlist.m3u`;
+
+  try {
+    // Create the folder if it doesn't exist
+    await mkdir(folderPath, { recursive: true });
+
+    // Write the playlist content to a file in the specified folder
+    await writeFile(filePath, playlistContent.join("\n"));
+
+    console.log(`Playlist file written to: ${filePath}`);
+  } catch (error) {
+    console.error("Error writing the playlist file:", error);
+  }
 }
 
 // Main function
 async function main() {
-  const liveMatches = await getLiveMatches();
-  await generateM3UPlaylist(liveMatches);
+  try {
+    const liveMatches = await getLiveMatches();
+    await generateM3UPlaylist(liveMatches);
+  } catch (error) {
+    console.error("An unexpected error occurred:", error);
+  }
 }
 
 // Example usage
