@@ -20,11 +20,6 @@ jobs:
         run: bun install
       - name: Run script
         run: bun run index.ts
-      - name: Archive production artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: stream-playlist
-          path: stream/playlist.m3u
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
