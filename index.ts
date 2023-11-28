@@ -98,7 +98,7 @@ function generateM3UEntry(match: Match, url: PlayUrl): string {
 }
 
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
-  const playlistContent: string[] = ["#EXTM3U\n"];
+  const playlistContent: string[] = ["#EXTM3U"];
 
   for (const match of liveMatches) {
     const filteredPlayUrls = await getFilteredPlayUrls(match.id);
