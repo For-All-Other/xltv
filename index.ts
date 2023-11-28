@@ -1,3 +1,4 @@
+import chalk from "chalk";
 import fetch from "node-fetch";
 import { writeFile, mkdir } from "fs/promises";
 import { dirname } from "path";
@@ -64,7 +65,7 @@ async function getLiveMatches(date: string): Promise<Match[]> {
 
     return data.filter((entry: Match) => entry.is_live);
   } catch (error) {
-    console.error("Error fetching live match data:", error);
+    console.error(chalk.red("Error fetching live match data:"), error);
     return [];
   }
 }
@@ -82,18 +83,22 @@ async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
       (url: PlayUrl) => url.name.includes("HD") || url.name.includes("FullHD")
     );
   } catch (error) {
-    console.error("Error fetching meta data:", error);
+    console.error(chalk.red("Error fetching meta data:"), error);
     return null;
   }
 }
 
 // Generate M3U playlist for live matches with filtered play URLs
 function generateM3UEntry(match: Match, url: PlayUrl): string {
-  return `#EXTINF:-1 tvg-id="${match.id}" tvg-name="${match.name}" tvg-logo="${match.tournament.logo}",${match.name} - ${url.name}\n${url.url}\n`;
+  const { id, name, tournament } = match;
+  const { logo } = tournament;
+  const { name: urlName, url: playUrl } = url;
+
+  return `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name} - ${urlName}\n${playUrl}`;
 }
 
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
-  const playlistContent: string[] = [];
+  const playlistContent: string[] = ["#EXTM3U\n"];
 
   for (const match of liveMatches) {
     const filteredPlayUrls = await getFilteredPlayUrls(match.id);
@@ -114,9 +119,9 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
     // Write the playlist content to a file in the specified folder
     await writeFile(filePath, playlistContent.join("\n"));
 
-    console.log(`Playlist file written to: ${filePath}`);
+    console.log(chalk.green("Playlist file written to:"), filePath);
   } catch (error) {
-    console.error("Error writing the playlist file:", error);
+    console.error(chalk.red("Error writing the playlist file:"), error);
   }
 }
 
@@ -125,11 +130,10 @@ async function main() {
   try {
     const today = new Date();
     const formattedDate = today.toISOString().split("T")[0].replace(/-/g, "");
-    console.log(formattedDate);
     const liveMatches = await getLiveMatches(formattedDate);
     await generateM3UPlaylist(liveMatches);
   } catch (error) {
-    console.error("An unexpected error occurred:", error);
+    console.error(chalk.red("An unexpected error occurred:"), error);
   }
 }
 
