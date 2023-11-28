@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1QWzbRb" tvg-name="Argentina U17 vs Germany U17 - HD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Argentina U17 vs Germany U17 - HD - Người Nện
-https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
-#EXTINF:-1 tvg-id="1QWzbRb" tvg-name="Argentina U17 vs Germany U17 - Full HD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Argentina U17 vs Germany U17 - Full HD - Người Nện
-https://obevcimanyd179314182.thapcam.link/live/nenFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Y6lSPy9" tvg-name="Incheon United vs Yokohama Marinos - HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",Incheon United vs Yokohama Marinos - HD - Trâu Gác Bếp
 https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Y6lSPy9" tvg-name="Incheon United vs Yokohama Marinos - Full HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",Incheon United vs Yokohama Marinos - Full HD - Trâu Gác Bếp
@@ -11,3 +7,7 @@ https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
 #EXTINF:-1 tvg-id="SEqlRI5" tvg-name="BG Pathum United vs Ulsan Hyundai FC - Full HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",BG Pathum United vs Ulsan Hyundai FC - Full HD - Người Thỏ
 https://obevcimanyd179314182.thapcam.link/live/Z3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="1QWzbRb" tvg-name="Argentina U17 vs Germany U17 - HD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Argentina U17 vs Germany U17 - HD - Người Nện
+https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
+#EXTINF:-1 tvg-id="1QWzbRb" tvg-name="Argentina U17 vs Germany U17 - Full HD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Argentina U17 vs Germany U17 - Full HD - Người Nện
+https://obevcimanyd179314182.thapcam.link/live/nenFHD/playlist.m3u8
