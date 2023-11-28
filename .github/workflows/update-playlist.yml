@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup bun
         uses: oven-sh/setup-bun@v1
@@ -25,13 +23,13 @@ jobs:
       - name: Run script
         run: bun index.ts
 
-      - name: Deploy gist
-        uses: exuanbo/actions-deploy-gist@v1
-        with:
-          token: ${{ secrets.TOKEN }}
-          gist_id: 1fee93167b2a8fac178595132bcf8896
-          file_path: stream/playlist.m3u
-          file_type: binary
+      # - name: Deploy gist
+      #   uses: exuanbo/actions-deploy-gist@v1
+      #   with:
+      #     token: ${{ secrets.TOKEN }}
+      #     gist_id: 1fee93167b2a8fac178595132bcf8896
+      #     file_path: stream/playlist.m3u
+      #     file_type: binary
 
       - name: Push a commit
         run: |
