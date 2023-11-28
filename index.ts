@@ -27,6 +27,7 @@ interface Match {
   id: string;
   name: string;
   tournament: {
+    name: string;
     logo: string;
   };
   commentators: [
@@ -101,12 +102,13 @@ function generateM3UEntry(
 ): string {
   const { id, name, tournament } = match;
   const { logo } = tournament;
+  const { name: tournamentName } = tournament;
   const { name: urlName, url: playUrl } = url;
 
   const commentatorNames =
     commentators.length > 0 ? commentators.join(" & ") : "Unknown";
 
-  return `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name} - ${urlName} - ${commentatorNames}\n${playUrl}`;
+  return `#EXTINF:-1 tvg-id="${id}" tvg-name="${name} - ${urlName}" tvg-logo="${logo}" group-title="${tournamentName}",${name} - ${urlName} - ${commentatorNames}\n${playUrl}`;
 }
 
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
