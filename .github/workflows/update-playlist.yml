@@ -27,13 +27,21 @@ jobs:
       - name: Run script
         run: bun run index.ts
 
-      - name: Push a commit
-        run: |
-          git config user.name update-playlist-bot
-          git config user.email update-playlist-bot@users.noreply.github.com
-          git add .
-          # git diff --exit-code || { echo 'No changes detected'; exit 0; }
-          if ! git diff-index --quiet HEAD --; then 
-            git commit -m "Update Playlist (GitHub Actions)"
-            git push origin main
-          fi
+      - name: Deploy
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: 1fee93167b2a8fac178595132bcf8896
+          file_path: stream/playlist.m3u
+          file_type: binary
+
+      # - name: Push a commit
+      #   run: |
+      #     git config user.name update-playlist-bot
+      #     git config user.email update-playlist-bot@users.noreply.github.com
+      #     git add .
+      #     # git diff --exit-code || { echo 'No changes detected'; exit 0; }
+      #     if ! git diff-index --quiet HEAD --; then 
+      #       git commit -m "Update Playlist (GitHub Actions)"
+      #       git push origin main
+      #     fi
