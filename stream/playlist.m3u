@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Y6lSPy9" tvg-name="Incheon United vs Yokohama Marinos - HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",Incheon United vs Yokohama Marinos - HD - Trâu Gác Bếp
-https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="Y6lSPy9" tvg-name="Incheon United vs Yokohama Marinos - Full HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",Incheon United vs Yokohama Marinos - Full HD - Trâu Gác Bếp
-https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="SEqlRI5" tvg-name="BG Pathum United vs Ulsan Hyundai FC - HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",BG Pathum United vs Ulsan Hyundai FC - HD - Người Thỏ
-https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SEqlRI5" tvg-name="BG Pathum United vs Ulsan Hyundai FC - Full HD" tvg-logo="https://img.thesports.com/football/competition/bbb3f5972c23f8865f7775b93ac0b741.png" group-title="AFC Champions League",BG Pathum United vs Ulsan Hyundai FC - Full HD - Người Thỏ
-https://obevcimanyd179314182.thapcam.link/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="njnKqYT" tvg-name="TP Hồ Chí Minh vs Bình Dương - HD" tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Vietnam National Cup",TP Hồ Chí Minh vs Bình Dương - HD - Phở Bò
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="njnKqYT" tvg-name="TP Hồ Chí Minh vs Bình Dương - FullHD" tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Vietnam National Cup",TP Hồ Chí Minh vs Bình Dương - FullHD - Phở Bò
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="obDZwwR" tvg-name="France U17 vs Mali U17 - HD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",France U17 vs Mali U17 - HD - Mỳ Tôm
 https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
 #EXTINF:-1 tvg-id="obDZwwR" tvg-name="France U17 vs Mali U17 - FullHD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",France U17 vs Mali U17 - FullHD - Mỳ Tôm
 https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="njnKqYT" tvg-name="TP Hồ Chí Minh vs Bình Dương - HD" tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Vietnam National Cup",TP Hồ Chí Minh vs Bình Dương - HD - Phở Bò
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="njnKqYT" tvg-name="TP Hồ Chí Minh vs Bình Dương - FullHD" tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Vietnam National Cup",TP Hồ Chí Minh vs Bình Dương - FullHD - Phở Bò
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
