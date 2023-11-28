@@ -29,6 +29,11 @@ interface Match {
   tournament: {
     logo: string;
   };
+  commentators: [
+    {
+      name: string;
+    }
+  ];
 }
 
 interface PlayUrl {
@@ -89,12 +94,19 @@ async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
 }
 
 // Generate M3U playlist for live matches with filtered play URLs
-function generateM3UEntry(match: Match, url: PlayUrl): string {
+function generateM3UEntry(
+  match: Match,
+  url: PlayUrl,
+  commentators: string[]
+): string {
   const { id, name, tournament } = match;
   const { logo } = tournament;
   const { name: urlName, url: playUrl } = url;
 
-  return `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name} - ${urlName}\n${playUrl}`;
+  const commentatorNames =
+    commentators.length > 0 ? commentators.join(" & ") : "Unknown";
+
+  return `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name} - ${urlName} - ${commentatorNames}\n${playUrl}`;
 }
 
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
@@ -103,8 +115,11 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
   for (const match of liveMatches) {
     const filteredPlayUrls = await getFilteredPlayUrls(match.id);
     if (filteredPlayUrls) {
+      const commentatorNames = match.commentators.map(
+        (commentator) => commentator.name
+      );
       filteredPlayUrls.forEach((url) => {
-        playlistContent.push(generateM3UEntry(match, url));
+        playlistContent.push(generateM3UEntry(match, url, commentatorNames));
       });
     }
   }
