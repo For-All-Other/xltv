@@ -3,7 +3,6 @@ import { writeFile, mkdir } from "fs/promises";
 import { dirname } from "path";
 
 // Constants
-const MATCH_API_URL = "https://api.vebo.xyz/api/match/fixture/home/20231127";
 const META_API_URL = "https://api.vebo.xyz/api/match/";
 
 // Custom Error Classes
@@ -53,7 +52,9 @@ async function fetchData(url: string): Promise<any> {
 }
 
 // Fetch live matches
-async function getLiveMatches(): Promise<Match[]> {
+async function getLiveMatches(date: string): Promise<Match[]> {
+  const MATCH_API_URL = `https://api.vebo.xyz/api/match/fixture/home/${date}`;
+
   try {
     const { data } = await fetchData(MATCH_API_URL);
 
@@ -122,7 +123,10 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
 // Main function
 async function main() {
   try {
-    const liveMatches = await getLiveMatches();
+    const today = new Date();
+    const formattedDate = today.toISOString().split("T")[0].replace(/-/g, "");
+    console.log(formattedDate);
+    const liveMatches = await getLiveMatches(formattedDate);
     await generateM3UPlaylist(liveMatches);
   } catch (error) {
     console.error("An unexpected error occurred:", error);
