@@ -1,4 +1,6 @@
-# xltv
+# XLTV
+
+[![Update Playlist](https://github.com/For-All-Other/xltv/actions/workflows/update-playlist.yml/badge.svg)](https://github.com/For-All-Other/xltv/actions/workflows/update-playlist.yml)
 
 To install dependencies:
 
