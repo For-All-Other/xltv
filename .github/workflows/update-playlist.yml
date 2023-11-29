@@ -2,7 +2,7 @@ name: Update Playlist
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: '*/10 * * * *'
   push:
     branches:
       - main
@@ -20,16 +20,8 @@ jobs:
       - name: Install dependencies
         run: bun install
 
-      - name: Run script
+      - name: Update playlist
         run: bun index.ts
-
-      # - name: Deploy gist
-      #   uses: exuanbo/actions-deploy-gist@v1
-      #   with:
-      #     token: ${{ secrets.TOKEN }}
-      #     gist_id: 1fee93167b2a8fac178595132bcf8896
-      #     file_path: stream/playlist.m3u
-      #     file_type: binary
 
       - name: Push a commit
         run: |
