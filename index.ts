@@ -1,3 +1,4 @@
+import dayjs from 'dayjs'
 import chalk from 'chalk'
 import fetch from 'node-fetch'
 import { writeFile, mkdir } from 'fs/promises'
@@ -66,7 +67,9 @@ async function getLiveMatches(date: string): Promise<Match[]> {
     const { data } = await fetchData(apiURL)
 
     if (!Array.isArray(data)) {
-      throw new UnexpectedDataError('Response data is not an array')
+      throw new UnexpectedDataError(
+        `Response data is not an array: ${JSON.stringify(data)}`
+      )
     }
 
     return data.filter((entry: Match) => entry.is_live)
@@ -85,7 +88,7 @@ async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
     const { data } = await fetchData(`${MATCH_API_URL}/${id}/meta`)
 
     if (!data) {
-      throw new UnexpectedDataError('No meta data found')
+      throw new UnexpectedDataError(`No meta data found for match ID ${id}`)
     }
 
     return data.play_urls.filter(
@@ -151,15 +154,13 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
 // Main function
 async function main() {
   try {
-    const today = new Date()
+    const today = dayjs()
 
-    // Convert to GMT+7
-    const gmtPlus7Date = new Date(today.getTime() + 7 * 60 * 60 * 1000)
+    // GMT+7
+    const gmtPlus7Date = today.add(7, 'hour')
 
-    const formattedDate = gmtPlus7Date
-      .toISOString()
-      .split('T')[0]
-      .replace(/-/g, '')
+    const formattedDate = gmtPlus7Date.format('YYYYMMDD')
+
     const liveMatches = await getLiveMatches(formattedDate)
     await generateM3UPlaylist(liveMatches)
   } catch (error) {
