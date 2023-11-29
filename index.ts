@@ -152,7 +152,14 @@ async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
 async function main() {
   try {
     const today = new Date()
-    const formattedDate = today.toISOString().split('T')[0].replace(/-/g, '')
+
+    // Convert to GMT+7
+    const gmtPlus7Date = new Date(today.getTime() + 7 * 60 * 60 * 1000)
+
+    const formattedDate = gmtPlus7Date
+      .toISOString()
+      .split('T')[0]
+      .replace(/-/g, '')
     const liveMatches = await getLiveMatches(formattedDate)
     await generateM3UPlaylist(liveMatches)
   } catch (error) {

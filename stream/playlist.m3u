@@ -1,1 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="bbKxApX" tvg-name="Bayern Munchen vs FC Copenhagen - HD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Bayern Munchen vs FC Copenhagen - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="bbKxApX" tvg-name="Bayern Munchen vs FC Copenhagen - FullHD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Bayern Munchen vs FC Copenhagen - FullHD - Trâu Gác Bếp
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Tz9h76U" tvg-name="Arsenal vs Lens - HD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Arsenal vs Lens - HD - Người Cồn
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Tz9h76U" tvg-name="Arsenal vs Lens - FullHD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Arsenal vs Lens - FullHD - Người Cồn
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="PikdcSL" tvg-name="Real Madrid vs Napoli - HD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Real Madrid vs Napoli - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="PikdcSL" tvg-name="Real Madrid vs Napoli - FullHD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Real Madrid vs Napoli - FullHD - Mỳ Tôm
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="bdM3Y4F" tvg-name="Benfica vs Inter Milan - HD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Benfica vs Inter Milan - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="bdM3Y4F" tvg-name="Benfica vs Inter Milan - FullHD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Benfica vs Inter Milan - FullHD - Người Già
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="wecLdH8" tvg-name="Real Sociedad vs Red Bull Salzburg - HD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Real Sociedad vs Red Bull Salzburg - HD - Người Thỏ
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="wecLdH8" tvg-name="Real Sociedad vs Red Bull Salzburg - FullHD" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="UEFA Champions League",Real Sociedad vs Red Bull Salzburg - FullHD - Người Thỏ
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
