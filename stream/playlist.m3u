@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="De7rNr5" tvg-name="Abha vs Al Ahli Jeddah - HD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Abha vs Al Ahli Jeddah - HD - Người Sói
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="De7rNr5" tvg-name="Abha vs Al Ahli Jeddah - FullHD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Abha vs Al Ahli Jeddah - FullHD - Người Sói
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="fhEaFgI" tvg-name="FC Astana vs Dinamo Zagreb - HD" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="Europa Conference League",FC Astana vs Dinamo Zagreb - HD - Người Nện
-https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
-#EXTINF:-1 tvg-id="fhEaFgI" tvg-name="FC Astana vs Dinamo Zagreb - FullHD" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="Europa Conference League",FC Astana vs Dinamo Zagreb - FullHD - Người Nện
-https://obevcimanyd179314182.thapcam.link/live/nenFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="sQejkWY" tvg-name="Sparta Praha vs Real Betis - HD" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="Europa League",Sparta Praha vs Real Betis - HD - Người Thỏ
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="sQejkWY" tvg-name="Sparta Praha vs Real Betis - FullHD" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="Europa League",Sparta Praha vs Real Betis - FullHD - Người Thỏ
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="nV2LCok" tvg-name="Atalanta vs Sporting CP - HD" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="Europa League",Atalanta vs Sporting CP - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="nV2LCok" tvg-name="Atalanta vs Sporting CP - FullHD" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="Europa League",Atalanta vs Sporting CP - FullHD - Trâu Gác Bếp
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
