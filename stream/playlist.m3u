@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WUQuk3w" tvg-name="Coritiba PR vs Botafogo RJ - HD" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Brazilian Serie A",Coritiba PR vs Botafogo RJ - HD - Người Thỏ
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="WUQuk3w" tvg-name="Coritiba PR vs Botafogo RJ - FHD" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Brazilian Serie A",Coritiba PR vs Botafogo RJ - FHD - Người Thỏ
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Mc6hgBU" tvg-name="Palmeiras vs America MG - HD" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Brazilian Serie A",Palmeiras vs America MG - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Mc6hgBU" tvg-name="Palmeiras vs America MG - FHD" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Brazilian Serie A",Palmeiras vs America MG - FHD - Trâu Gác Bếp
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
