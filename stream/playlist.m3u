@@ -3,7 +3,9 @@
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="sA1UoDk" tvg-name="Sông Lam Nghệ An vs Quảng Nam - Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Sông Lam Nghệ An vs Quảng Nam - Full HD - Phở Bò
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="oKCIlXo" tvg-name="Khánh Hòa vs Thanh Hóa - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Thanh Hóa - HD - Người Thỏ
+#EXTINF:-1 tvg-id="oKCIlXo" tvg-name="Khánh Hòa vs Thanh Hóa - HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Thanh Hóa - HD1 - Người Thỏ
+https://edge.ezyproxy.com/livep2p/may1HD/index.m3u8
+#EXTINF:-1 tvg-id="oKCIlXo" tvg-name="Khánh Hòa vs Thanh Hóa - HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Thanh Hóa - HD2 - Người Thỏ
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="oKCIlXo" tvg-name="Khánh Hòa vs Thanh Hóa - FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Thanh Hóa - FHD - Người Thỏ
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
@@ -11,7 +13,9 @@ https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
 #EXTINF:-1 tvg-id="K1ZNn7q" tvg-name="West Bromwich(WBA) vs Leicester City - FHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Leicester City - FHD - Trâu Gác Bếp
 https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="wLqU0An" tvg-name="Germany U17 vs France U17 - HD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Germany U17 vs France U17 - HD - Người Nện
+#EXTINF:-1 tvg-id="wLqU0An" tvg-name="Germany U17 vs France U17 - HD1" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Germany U17 vs France U17 - HD1 - Người Nện
+https://edge.ezyproxy.com/livep2p/Z2HD/index.m3u8
+#EXTINF:-1 tvg-id="wLqU0An" tvg-name="Germany U17 vs France U17 - HD2" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Germany U17 vs France U17 - HD2 - Người Nện
 https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="wLqU0An" tvg-name="Germany U17 vs France U17 - FHD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Germany U17 vs France U17 - FHD - Người Nện
 https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8
