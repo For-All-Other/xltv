@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="K1ZNn7q" tvg-name="West Bromwich(WBA) vs Leicester City - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Leicester City - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="K1ZNn7q" tvg-name="West Bromwich(WBA) vs Leicester City - FHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Leicester City - FHD - Trâu Gác Bếp
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="oKCIlXo" tvg-name="Khánh Hòa vs Thanh Hóa - HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Thanh Hóa - HD1 - Người Thỏ
 https://edge.ezyproxy.com/livep2p/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="oKCIlXo" tvg-name="Khánh Hòa vs Thanh Hóa - HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Thanh Hóa - HD2 - Người Thỏ
@@ -11,7 +15,7 @@ https://edge.ezyproxy.com/livep2p/Z2HD/index.m3u8
 https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="wLqU0An" tvg-name="Germany U17 vs France U17 - FHD" tvg-logo="https://img.thesports.com/football/competition/43bdfdb8618d5cdf27511860ddd51ae7.png" group-title="FIFA U17 World Cup",Germany U17 vs France U17 - FHD - Người Nện
 https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="K1ZNn7q" tvg-name="West Bromwich(WBA) vs Leicester City - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Leicester City - HD - Trâu Gác Bếp
-https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="K1ZNn7q" tvg-name="West Bromwich(WBA) vs Leicester City - FHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Leicester City - FHD - Trâu Gác Bếp
-https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Tgt6eEd" tvg-name="Girona vs Valencia - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Girona vs Valencia - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Tgt6eEd" tvg-name="Girona vs Valencia - FHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Girona vs Valencia - FHD - Người Sói
+https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
