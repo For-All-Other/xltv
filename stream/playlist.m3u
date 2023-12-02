@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="wVMsMaJ" tvg-name="Arsenal vs Wolves - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Wolves - HD1 - Người Cồn
-https://edge.ezyproxy.com/livep2p/may1HD/index.m3u8
-#EXTINF:-1 tvg-id="wVMsMaJ" tvg-name="Arsenal vs Wolves - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Wolves - HD2 - Người Cồn
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="wVMsMaJ" tvg-name="Arsenal vs Wolves - FHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Wolves - FHD - Người Cồn
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="wfvUFNV" tvg-name="Brentford vs Luton Town - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brentford vs Luton Town - HD1 - Mỳ Tôm
-https://edge.ezyproxy.com/livep2p/Z1HD/index.m3u8
-#EXTINF:-1 tvg-id="wfvUFNV" tvg-name="Brentford vs Luton Town - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brentford vs Luton Town - HD2 - Mỳ Tôm
-https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="wfvUFNV" tvg-name="Brentford vs Luton Town - FHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brentford vs Luton Town - FHD - Mỳ Tôm
-https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RBTtxPx" tvg-name="Burnley vs Sheffield United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Sheffield United - HD - Phở Bò
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RBTtxPx" tvg-name="Burnley vs Sheffield United - FHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Sheffield United - FHD - Phở Bò
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="W6iPnD6" tvg-name="Lazio vs Cagliari - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Lazio vs Cagliari - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="W6iPnD6" tvg-name="Lazio vs Cagliari - FHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Lazio vs Cagliari - FHD - Người Già
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="rod3v0J" tvg-name="Bốc thăm vs Euro 2024 - HD1" tvg-logo="https://static.vebotv.app/files/euro.png" group-title="Vòng loại Euro 2024",Bốc thăm vs Euro 2024 - HD1 - Cáp Tần
+https://edge.ezyproxy.com/livep2p/may3HD/index.m3u8
+#EXTINF:-1 tvg-id="rod3v0J" tvg-name="Bốc thăm vs Euro 2024 - HD2" tvg-logo="https://static.vebotv.app/files/euro.png" group-title="Vòng loại Euro 2024",Bốc thăm vs Euro 2024 - HD2 - Cáp Tần
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="rod3v0J" tvg-name="Bốc thăm vs Euro 2024 - FHD" tvg-logo="https://static.vebotv.app/files/euro.png" group-title="Vòng loại Euro 2024",Bốc thăm vs Euro 2024 - FHD - Cáp Tần
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="wXYw1x0" tvg-name="Real Madrid vs Granada CF - HD1" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Madrid vs Granada CF - HD1 - Mỳ Tôm
+https://edge.ezyproxy.com/livep2p/Z2HD/index.m3u8
+#EXTINF:-1 tvg-id="wXYw1x0" tvg-name="Real Madrid vs Granada CF - HD2" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Madrid vs Granada CF - HD2 - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="wXYw1x0" tvg-name="Real Madrid vs Granada CF - FHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Madrid vs Granada CF - FHD - Mỳ Tôm
+https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="kU0dK8e" tvg-name="VfB Stuttgart vs Werder Bremen - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfB Stuttgart vs Werder Bremen - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 tvg-id="kU0dK8e" tvg-name="VfB Stuttgart vs Werder Bremen - FHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfB Stuttgart vs Werder Bremen - FHD - Người Sói
+https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
