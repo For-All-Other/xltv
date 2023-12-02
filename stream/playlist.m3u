@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="P01sgpR" tvg-name="AC Milan vs Frosinone - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AC Milan vs Frosinone - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="P01sgpR" tvg-name="AC Milan vs Frosinone - FHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AC Milan vs Frosinone - FHD - Người Già
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="pwUruxu" tvg-name="Đầu cầu Newcastle vs Manchester United - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Newcastle vs Manchester United - HD1 - Cáp Tần
 https://edge.ezyproxy.com/livep2p/may3HD/index.m3u8
 #EXTINF:-1 tvg-id="pwUruxu" tvg-name="Đầu cầu Newcastle vs Manchester United - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Newcastle vs Manchester United - HD2 - Cáp Tần
@@ -9,10 +13,6 @@ https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
 #EXTINF:-1 tvg-id="QsXuihe" tvg-name="Osasuna vs Real Sociedad - FHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Osasuna vs Real Sociedad - FHD - Trâu Gác Bếp
 https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="P01sgpR" tvg-name="AC Milan vs Frosinone - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AC Milan vs Frosinone - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="P01sgpR" tvg-name="AC Milan vs Frosinone - FHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AC Milan vs Frosinone - FHD - Người Già
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="qG3SxE7" tvg-name="Newcastle United vs Đầu cầu MU - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Đầu cầu MU - HD1 - Bánh Cuốn & Bún Chả
 https://edge.ezyproxy.com/livep2p/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="qG3SxE7" tvg-name="Newcastle United vs Đầu cầu MU - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Đầu cầu MU - HD2 - Bánh Cuốn & Bún Chả
