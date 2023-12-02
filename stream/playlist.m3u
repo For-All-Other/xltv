@@ -21,3 +21,7 @@ https://edge.ezyproxy.com/livep2p/Z1HD/index.m3u8
 https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="wfvUFNV" tvg-name="Brentford vs Luton Town - FHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brentford vs Luton Town - FHD - Mỳ Tôm
 https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RBTtxPx" tvg-name="Burnley vs Sheffield United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Sheffield United - HD - Phở Bò
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RBTtxPx" tvg-name="Burnley vs Sheffield United - FHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Sheffield United - FHD - Phở Bò
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
