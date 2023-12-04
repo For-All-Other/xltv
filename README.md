@@ -2,7 +2,7 @@
 
 [![Update Playlist](https://github.com/For-All-Other/xltv/actions/workflows/update-playlist.yml/badge.svg)](https://github.com/For-All-Other/xltv/actions/workflows/update-playlist.yml)
 
-This Node.js script fetches live match data from the Vebo API and generates an M3U playlist with filtered play URLs for live matches. It utilizes the [dayjs](https://github.com/iamkun/dayjs), [chalk](https://github.com/chalk/chalk), and [node-fetch](https://github.com/node-fetch/node-fetch) libraries.
+This script fetches live match data from the Vebo API and generates an M3U playlist with filtered play URLs for live matches. It utilizes the [dayjs](https://github.com/iamkun/dayjs), [chalk](https://github.com/chalk/chalk), and [node-fetch](https://github.com/node-fetch/node-fetch) libraries.
 
 ## Installation
 
