@@ -43,11 +43,6 @@ interface PlayUrl {
   url: string
 }
 
-interface MetaData {
-  play_urls: PlayUrl[]
-  id: string
-}
-
 // Fetch data from API
 async function fetchData(url: string): Promise<any> {
   const response = await fetch(url)
