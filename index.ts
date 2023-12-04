@@ -22,7 +22,7 @@ class UnexpectedDataError extends Error {
   }
 }
 
-// Interface definitions
+// Interfaces
 interface Match {
   is_live: boolean
   id: string
@@ -31,11 +31,7 @@ interface Match {
     name: string
     logo: string
   }
-  commentators: [
-    {
-      name: string
-    },
-  ]
+  commentators: Array<{ name: string }>
 }
 
 interface PlayUrl {
@@ -98,7 +94,7 @@ async function getFilteredPlayUrls(id: string): Promise<PlayUrl[] | null> {
   }
 }
 
-// Generate M3U playlist for live matches with filtered play URLs
+// Generate M3U playlist entry for live matches with filtered play URLs
 function generateM3UEntry(
   match: Match,
   url: PlayUrl,
@@ -115,6 +111,7 @@ function generateM3UEntry(
   return `#EXTINF:-1 tvg-id="${id}" tvg-name="${name} - ${urlName}" tvg-logo="${logo}" group-title="${tournamentName}",${name} - ${urlName} - ${commentatorNames}\n${playUrl}`
 }
 
+// Generate M3U playlist for live matches with filtered play URLs
 async function generateM3UPlaylist(liveMatches: Match[]): Promise<void> {
   const playlistContent: string[] = ['#EXTM3U']
 
