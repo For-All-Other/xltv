@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hiw1tqi" tvg-name="Arosa SC vs Valencia - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Arosa SC vs Valencia - HD - Phở Bò
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="hiw1tqi" tvg-name="Arosa SC vs Valencia - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Arosa SC vs Valencia - FullHD - Phở Bò
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="1VkHXW4" tvg-name="Borussia Monchengladbach vs VfL Wolfsburg - HD" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="DFB Pokal",Borussia Monchengladbach vs VfL Wolfsburg - HD - Người Sói
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
 #EXTINF:-1 tvg-id="1VkHXW4" tvg-name="Borussia Monchengladbach vs VfL Wolfsburg - FullHD" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="DFB Pokal",Borussia Monchengladbach vs VfL Wolfsburg - FullHD - Người Sói
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="0e3SIkU" tvg-name="Lazio vs Genoa - HD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs Genoa - HD - Trâu Gác Bếp
-https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="0e3SIkU" tvg-name="Lazio vs Genoa - FullHD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs Genoa - FullHD - Trâu Gác Bếp
-https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="9y0k2SZ" tvg-name="Luton Town vs Arsenal - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Luton Town vs Arsenal - HD - Người Cồn
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="9y0k2SZ" tvg-name="Luton Town vs Arsenal - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Luton Town vs Arsenal - FullHD - Người Cồn
