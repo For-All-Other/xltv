@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="O9dEOoN" tvg-name="Brighton Hove Albion vs Brentford - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Brentford - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="O9dEOoN" tvg-name="Brighton Hove Albion vs Brentford - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Brentford - FullHD - Mỳ Tôm
+https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="yI1Nr3s" tvg-name="Fulham vs Nottingham Forest - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Nottingham Forest - HD - Phở Bò
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="yI1Nr3s" tvg-name="Fulham vs Nottingham Forest - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Nottingham Forest - FullHD - Phở Bò
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="z6d1NhW" tvg-name="Sheffield United vs Liverpool - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Sheffield United vs Liverpool - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="z6d1NhW" tvg-name="Sheffield United vs Liverpool - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Sheffield United vs Liverpool - FullHD - Người Sói
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="g1tyNVK" tvg-name="Aston Villa vs Đầu cầu MC - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Aston Villa vs Đầu cầu MC - HD - Người Già
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
 #EXTINF:-1 tvg-id="g1tyNVK" tvg-name="Aston Villa vs Đầu cầu MC - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Aston Villa vs Đầu cầu MC - FullHD - Người Già
@@ -15,18 +27,6 @@ https://obevcimanyd179314182.thapcam.link/live/Z3FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
 #EXTINF:-1 tvg-id="kdFtEGc" tvg-name="VfB Stuttgart vs Borussia Dortmund - FullHD" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="DFB Pokal",VfB Stuttgart vs Borussia Dortmund - FullHD - Bún Chả
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="O9dEOoN" tvg-name="Brighton Hove Albion vs Brentford - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Brentford - HD - Mỳ Tôm
-https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="O9dEOoN" tvg-name="Brighton Hove Albion vs Brentford - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Brentford - FullHD - Mỳ Tôm
-https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="yI1Nr3s" tvg-name="Fulham vs Nottingham Forest - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Nottingham Forest - HD - Phở Bò
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="yI1Nr3s" tvg-name="Fulham vs Nottingham Forest - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Nottingham Forest - FullHD - Phở Bò
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="z6d1NhW" tvg-name="Sheffield United vs Liverpool - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Sheffield United vs Liverpool - HD - Người Sói
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="z6d1NhW" tvg-name="Sheffield United vs Liverpool - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Sheffield United vs Liverpool - FullHD - Người Sói
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="OIIKMyx" tvg-name="Manchester United vs Chelsea - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Manchester United vs Chelsea - HD - Cáp Tần & Người Thỏ
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="OIIKMyx" tvg-name="Manchester United vs Chelsea - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Manchester United vs Chelsea - FullHD - Cáp Tần & Người Thỏ
