@@ -1,21 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="yiVUUiN" tvg-name="Al-Nassr(KSA) vs Al-Riyadh - HD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Nassr(KSA) vs Al-Riyadh - HD - Mỳ Tôm
-https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="yiVUUiN" tvg-name="Al-Nassr(KSA) vs Al-Riyadh - FullHD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Nassr(KSA) vs Al-Riyadh - FullHD - Mỳ Tôm
-https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="up6v3BC" tvg-name="TSG Hoffenheim vs VfL Bochum - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",TSG Hoffenheim vs VfL Bochum - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="up6v3BC" tvg-name="TSG Hoffenheim vs VfL Bochum - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",TSG Hoffenheim vs VfL Bochum - FullHD - Người Già
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="i63D4gV" tvg-name="Juventus vs Napoli - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Napoli - HD - Trâu Gác Bếp
-https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="i63D4gV" tvg-name="Juventus vs Napoli - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Napoli - FullHD - Trâu Gác Bếp
-https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="MHDv3Or" tvg-name="Coventry City vs Birmingham City - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Coventry City vs Birmingham City - HD - Phở Bò
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="MHDv3Or" tvg-name="Coventry City vs Birmingham City - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Coventry City vs Birmingham City - FullHD - Phở Bò
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="up6v3BC" tvg-name="TSG Hoffenheim vs VfL Bochum - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",TSG Hoffenheim vs VfL Bochum - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="up6v3BC" tvg-name="TSG Hoffenheim vs VfL Bochum - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",TSG Hoffenheim vs VfL Bochum - FullHD - Người Già
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="8loxSvZ" tvg-name="Getafe vs Valencia - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Getafe vs Valencia - HD - Người Thỏ
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="8loxSvZ" tvg-name="Getafe vs Valencia - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Getafe vs Valencia - FullHD - Người Thỏ
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="i63D4gV" tvg-name="Juventus vs Napoli - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Napoli - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="i63D4gV" tvg-name="Juventus vs Napoli - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Napoli - FullHD - Trâu Gác Bếp
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
