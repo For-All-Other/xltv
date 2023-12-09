@@ -1,27 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vn9zbtZ" tvg-name="Đầu cầu Dortmund vs RB Leipzig - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Đầu cầu Dortmund vs RB Leipzig - HD - Bún Chả
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="vn9zbtZ" tvg-name="Đầu cầu Dortmund vs RB Leipzig - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Đầu cầu Dortmund vs RB Leipzig - FullHD - Bún Chả
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="tZBNxfe" tvg-name="Borussia Dortmund vs Đầu cầu Leipzig - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Dortmund vs Đầu cầu Leipzig - HD - Phở Bò
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="tZBNxfe" tvg-name="Borussia Dortmund vs Đầu cầu Leipzig - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Dortmund vs Đầu cầu Leipzig - FullHD - Phở Bò
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="Rz5mZvA" tvg-name="Aston Villa vs Đầu cầu Arsenal - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Aston Villa vs Đầu cầu Arsenal - HD1 - Người Cồn
-https://edge.ezyproxy.com/livep2p/may1HD/index.m3u8
-#EXTINF:-1 tvg-id="Rz5mZvA" tvg-name="Aston Villa vs Đầu cầu Arsenal - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Aston Villa vs Đầu cầu Arsenal - HD2 - Người Cồn
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Rz5mZvA" tvg-name="Aston Villa vs Đầu cầu Arsenal - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Aston Villa vs Đầu cầu Arsenal - FullHD - Người Cồn
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="0jBC9Ud" tvg-name="Gia đình Villa vs Arsenal - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Gia đình Villa vs Arsenal - HD - Người Sói
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="0jBC9Ud" tvg-name="Gia đình Villa vs Arsenal - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Gia đình Villa vs Arsenal - FullHD - Người Sói
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="suB56Cq" tvg-name="Paris Saint Germain (PSG) vs Nantes - HD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Paris Saint Germain (PSG) vs Nantes - HD - Người Cồn
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="suB56Cq" tvg-name="Paris Saint Germain (PSG) vs Nantes - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Paris Saint Germain (PSG) vs Nantes - FullHD - Người Cồn
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="2ehs9f1" tvg-name="Inter Milan vs Udinese - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Inter Milan vs Udinese - HD - Người Già
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
 #EXTINF:-1 tvg-id="2ehs9f1" tvg-name="Inter Milan vs Udinese - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Inter Milan vs Udinese - FullHD - Người Già
 https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="suB56Cq" tvg-name="Paris Saint Germain (PSG) vs Nantes - HD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Paris Saint Germain (PSG) vs Nantes - HD - Người Cồn
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="suB56Cq" tvg-name="Paris Saint Germain (PSG) vs Nantes - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Paris Saint Germain (PSG) vs Nantes - FullHD - Người Cồn
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
