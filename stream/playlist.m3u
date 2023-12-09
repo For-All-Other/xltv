@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Oi1TOV4" tvg-name="TP Hồ Chí Minh vs Hải Phòng - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",TP Hồ Chí Minh vs Hải Phòng - HD - Unknown
-https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
 #EXTINF:-1 tvg-id="Eswnyxx" tvg-name="Crystal Palace vs Liverpool - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Crystal Palace vs Liverpool - HD - Người Sói
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Eswnyxx" tvg-name="Crystal Palace vs Liverpool - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Crystal Palace vs Liverpool - FullHD - Người Sói
@@ -11,3 +9,21 @@ https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 https://edge.ezyproxy.com/livep2p/may2HD/index.m3u8
 #EXTINF:-1 tvg-id="gAhgnIl" tvg-name="Eintracht Frankfurt vs Bayern Munchen - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Eintracht Frankfurt vs Bayern Munchen - FullHD - Người Nện
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="CXEBG9G" tvg-name="Brighton Hove Albion vs Burnley - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Burnley - HD1 - Cáp Tần
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="CXEBG9G" tvg-name="Brighton Hove Albion vs Burnley - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Burnley - HD2 - Cáp Tần
+https://edge.ezyproxy.com/livep2p/may3HD/index.m3u8
+#EXTINF:-1 tvg-id="CXEBG9G" tvg-name="Brighton Hove Albion vs Burnley - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brighton Hove Albion vs Burnley - FullHD - Cáp Tần
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="0kJhhWA" tvg-name="Manchester United vs Bournemouth AFC - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Manchester United vs Bournemouth AFC - HD1 - Bánh Cuốn & Bún Chả
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="0kJhhWA" tvg-name="Manchester United vs Bournemouth AFC - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Manchester United vs Bournemouth AFC - HD2 - Bánh Cuốn & Bún Chả
+https://edge.ezyproxy.com/livep2p/may1HD/index.m3u8
+#EXTINF:-1 tvg-id="0kJhhWA" tvg-name="Manchester United vs Bournemouth AFC - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Manchester United vs Bournemouth AFC - FullHD - Bánh Cuốn & Bún Chả
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="nvUVJvO" tvg-name="Wolves vs Nottingham Forest - HD1" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Wolves vs Nottingham Forest - HD1 - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="nvUVJvO" tvg-name="Wolves vs Nottingham Forest - HD2" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Wolves vs Nottingham Forest - HD2 - Trâu Gác Bếp
+https://edge.ezyproxy.com/livep2p/Z3HD/index.m3u8
+#EXTINF:-1 tvg-id="nvUVJvO" tvg-name="Wolves vs Nottingham Forest - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Wolves vs Nottingham Forest - FullHD - Trâu Gác Bếp
+https://obevcimanyd179314182.thapcam.link/live/Z3FHD/playlist.m3u8
