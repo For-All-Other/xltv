@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="XoAbBhv" tvg-name="Bình Định vs Thanh Hóa - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Định vs Thanh Hóa - HD - Người Thỏ
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="XoAbBhv" tvg-name="Bình Định vs Thanh Hóa - Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Định vs Thanh Hóa - Full HD - Người Thỏ
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="5Z9qMt4" tvg-name="Nam Định vs Công An Hà Nội - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Nam Định vs Công An Hà Nội - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="5Z9qMt4" tvg-name="Nam Định vs Công An Hà Nội - Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Nam Định vs Công An Hà Nội - Full HD - Người Già
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
