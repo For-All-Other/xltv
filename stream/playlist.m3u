@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="YRHGlDv" tvg-name="Quảng Nam vs Hà Tĩnh - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Quảng Nam vs Hà Tĩnh - HD - Người Thỏ
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="YRHGlDv" tvg-name="Quảng Nam vs Hà Tĩnh - Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Quảng Nam vs Hà Tĩnh - Full HD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="8VPulBQ" tvg-name="Khánh Hòa vs Bình Dương - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Bình Dương - HD - Bún Chả
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
 #EXTINF:-1 tvg-id="8VPulBQ" tvg-name="Khánh Hòa vs Bình Dương - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Khánh Hòa vs Bình Dương - FullHD - Bún Chả
@@ -11,3 +7,11 @@ https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
 #EXTINF:-1 tvg-id="fH4vF2u" tvg-name="Nice vs Reims - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Nice vs Reims - FullHD - Người Sói
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="XK6CiYI" tvg-name="Fortuna Dusseldorf vs Holstein Kiel - HD" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="Bundesliga 2",Fortuna Dusseldorf vs Holstein Kiel - HD - Người Cồn
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="XK6CiYI" tvg-name="Fortuna Dusseldorf vs Holstein Kiel - FullHD" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="Bundesliga 2",Fortuna Dusseldorf vs Holstein Kiel - FullHD - Người Cồn
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Q5IyKYu" tvg-name="Hà Nội vs Sông Lam Nghệ An - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Hà Nội vs Sông Lam Nghệ An - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Q5IyKYu" tvg-name="Hà Nội vs Sông Lam Nghệ An - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Hà Nội vs Sông Lam Nghệ An - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
