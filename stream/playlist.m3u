@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="z6uyW2a" tvg-name="Lorient vs Marseille - HD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Lorient vs Marseille - HD - Bún Chả
-https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="z6uyW2a" tvg-name="Lorient vs Marseille - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Lorient vs Marseille - FullHD - Bún Chả
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="X7A1J4m" tvg-name="Đầu cầu Barca vs Girona - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Đầu cầu Barca vs Girona - HD - Người Cồn
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 #EXTINF:-1 tvg-id="X7A1J4m" tvg-name="Đầu cầu Barca vs Girona - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Đầu cầu Barca vs Girona - FullHD - Người Cồn
@@ -11,7 +7,3 @@ https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="i4KuWVW" tvg-name="Barcelona vs Đầu cầu Girona - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Barcelona vs Đầu cầu Girona - FullHD - Trâu Gác Bếp
 https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="rMXWJMs" tvg-name="AS Roma vs Fiorentina - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AS Roma vs Fiorentina - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="rMXWJMs" tvg-name="AS Roma vs Fiorentina - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AS Roma vs Fiorentina - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
