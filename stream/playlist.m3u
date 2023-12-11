@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HD5YH2w" tvg-name="Al Hilal vs Al-Taawon - HD" tvg-logo="https://img.thesports.com/football/competition/4f52c584582c23a1218f22ff373a426c.png" group-title="Saudi Arabia Kings Cup",Al Hilal vs Al-Taawon - HD - Người Sói
-https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
-#EXTINF:-1 tvg-id="HD5YH2w" tvg-name="Al Hilal vs Al-Taawon - FullHD" tvg-logo="https://img.thesports.com/football/competition/4f52c584582c23a1218f22ff373a426c.png" group-title="Saudi Arabia Kings Cup",Al Hilal vs Al-Taawon - FullHD - Người Sói
-https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="NRsj3GZ" tvg-name="Al Wehda vs Al Kuwait SC - HD" tvg-logo="https://img.thesports.com/football/competition/3fbd7ad468f7b53404b4e2ad151cbf63.png" group-title="AFC Cup",Al Wehda vs Al Kuwait SC - HD - Người Nện
 https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
 #EXTINF:-1 tvg-id="NRsj3GZ" tvg-name="Al Wehda vs Al Kuwait SC - FullHD" tvg-logo="https://img.thesports.com/football/competition/3fbd7ad468f7b53404b4e2ad151cbf63.png" group-title="AFC Cup",Al Wehda vs Al Kuwait SC - FullHD - Người Nện
 https://obevcimanyd179249207.thapcam.link/live/nenFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="HD5YH2w" tvg-name="Al Hilal vs Al-Taawon - HD" tvg-logo="https://img.thesports.com/football/competition/4f52c584582c23a1218f22ff373a426c.png" group-title="Saudi Arabia Kings Cup",Al Hilal vs Al-Taawon - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 tvg-id="HD5YH2w" tvg-name="Al Hilal vs Al-Taawon - FullHD" tvg-logo="https://img.thesports.com/football/competition/4f52c584582c23a1218f22ff373a426c.png" group-title="Saudi Arabia Kings Cup",Al Hilal vs Al-Taawon - FullHD - Người Sói
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
