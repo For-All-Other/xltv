@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sMokGcb" tvg-name="Đồng Tâm Long An vs Đà Nẵng - HD" tvg-logo="https://img.thesports.com/football/competition/b1b67c63e3a4b74010028210dd42a77f.png" group-title="V League 2",Đồng Tâm Long An vs Đà Nẵng - HD - Người Thỏ
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sMokGcb" tvg-name="Đồng Tâm Long An vs Đà Nẵng - FHD" tvg-logo="https://img.thesports.com/football/competition/b1b67c63e3a4b74010028210dd42a77f.png" group-title="V League 2",Đồng Tâm Long An vs Đà Nẵng - FHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="JqWgdF4" tvg-name="Hà Tĩnh vs Bình Định - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Hà Tĩnh vs Bình Định - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="JqWgdF4" tvg-name="Hà Tĩnh vs Bình Định - FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Hà Tĩnh vs Bình Định - FHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="xVsGAbY" tvg-name="Bình Dương vs Nam Định - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Dương vs Nam Định - HD - Người Sói
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
 #EXTINF:-1 tvg-id="xVsGAbY" tvg-name="Bình Dương vs Nam Định - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Dương vs Nam Định - FullHD - Người Sói
@@ -15,3 +7,7 @@ https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="3ymVwmh" tvg-name="Thanh Hóa vs TP Hồ Chí Minh - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Thanh Hóa vs TP Hồ Chí Minh - FullHD - Phở Bò
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="cLhv8ax" tvg-name="Ipswich Town vs Norwich City - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Ipswich Town vs Norwich City - HD - Người Nện
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="cLhv8ax" tvg-name="Ipswich Town vs Norwich City - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Ipswich Town vs Norwich City - FullHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
