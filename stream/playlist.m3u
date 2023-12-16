@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="EsvcYdX" tvg-name="Bournemouth AFC vs Luton Town - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Bournemouth AFC vs Luton Town - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="EsvcYdX" tvg-name="Bournemouth AFC vs Luton Town - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Bournemouth AFC vs Luton Town - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="IGwd2Bf" tvg-name="Southampton vs Blackburn Rovers - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Southampton vs Blackburn Rovers - HD - Người Nện
 https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="IGwd2Bf" tvg-name="Southampton vs Blackburn Rovers - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Southampton vs Blackburn Rovers - FullHD - Người Nện
@@ -19,7 +23,3 @@ https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 #EXTINF:-1 tvg-id="7dcdCFt" tvg-name="Newcastle United vs Fulham - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Fulham - FullHD - Bánh Cuốn
 https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="EsvcYdX" tvg-name="Bournemouth AFC vs Luton Town - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Bournemouth AFC vs Luton Town - HD - Mỳ Tôm
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="EsvcYdX" tvg-name="Bournemouth AFC vs Luton Town - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Bournemouth AFC vs Luton Town - FullHD - Mỳ Tôm
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
