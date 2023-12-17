@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TXdSl9Z" tvg-name="Arsenal vs Đầu cầu Brighton - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Đầu cầu Brighton - HD - Mỳ Tôm
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="TXdSl9Z" tvg-name="Arsenal vs Đầu cầu Brighton - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Đầu cầu Brighton - FullHD - Mỳ Tôm
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="dctBKGQ" tvg-name="Real Sociedad vs Real Betis - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Sociedad vs Real Betis - HD - Bún Chả
 https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
 #EXTINF:-1 tvg-id="dctBKGQ" tvg-name="Real Sociedad vs Real Betis - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Sociedad vs Real Betis - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ic1MmSt" tvg-name="Đầu cầu Arsenal vs Brighton Hove Albion - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Arsenal vs Brighton Hove Albion - HD - Người Cồn
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ic1MmSt" tvg-name="Đầu cầu Arsenal vs Brighton Hove Albion - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Arsenal vs Brighton Hove Albion - FullHD - Người Cồn
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="XKuTSRo" tvg-name="Bayer Leverkusen vs Eintracht Frankfurt - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Bayer Leverkusen vs Eintracht Frankfurt - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="XKuTSRo" tvg-name="Bayer Leverkusen vs Eintracht Frankfurt - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Bayer Leverkusen vs Eintracht Frankfurt - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="mRGg9P0" tvg-name="Liverpool vs Manchester United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Liverpool vs Manchester United - HD - Người Thỏ & Người Sói
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="mRGg9P0" tvg-name="Liverpool vs Manchester United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Liverpool vs Manchester United - FullHD - Người Thỏ & Người Sói
@@ -27,7 +23,3 @@ https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="u3caklE" tvg-name="Liverpool vs Manchester United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Liverpool vs Manchester United - FullHD - Cáp Tần
 https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="XKuTSRo" tvg-name="Bayer Leverkusen vs Eintracht Frankfurt - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Bayer Leverkusen vs Eintracht Frankfurt - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="XKuTSRo" tvg-name="Bayer Leverkusen vs Eintracht Frankfurt - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Bayer Leverkusen vs Eintracht Frankfurt - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
