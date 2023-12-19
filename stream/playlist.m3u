@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5CEHTm0" tvg-name="Urawa Red Diamonds vs Manchester City - HD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Manchester City - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="5CEHTm0" tvg-name="Urawa Red Diamonds vs Manchester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Manchester City - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="qEfVJLN" tvg-name="Werder Bremen vs RB Leipzig - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Werder Bremen vs RB Leipzig - HD - Người Sói
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
 #EXTINF:-1 tvg-id="qEfVJLN" tvg-name="Werder Bremen vs RB Leipzig - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Werder Bremen vs RB Leipzig - FullHD - Người Sói
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="5CEHTm0" tvg-name="Urawa Red Diamonds vs Manchester City - HD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Manchester City - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="5CEHTm0" tvg-name="Urawa Red Diamonds vs Manchester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Manchester City - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
