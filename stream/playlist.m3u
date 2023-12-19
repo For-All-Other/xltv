@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="y9z861u" tvg-name="Al Aqaba SC vs Al Wehda - HD" tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Jordan Premier League",Al Aqaba SC vs Al Wehda - HD - Người Nện
+https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
+#EXTINF:-1 tvg-id="y9z861u" tvg-name="Al Aqaba SC vs Al Wehda - FullHD" tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Jordan Premier League",Al Aqaba SC vs Al Wehda - FullHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/nenFHD/playlist.m3u8
