@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5CEHTm0" tvg-name="Urawa Red Diamonds vs Manchester City - HD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Manchester City - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="5CEHTm0" tvg-name="Urawa Red Diamonds vs Manchester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Manchester City - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="uVidMbx" tvg-name="Napoli vs Frosinone - HD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Napoli vs Frosinone - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 tvg-id="uVidMbx" tvg-name="Napoli vs Frosinone - FullHD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Napoli vs Frosinone - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="IcODiNG" tvg-name="Borussia Dortmund vs FSV Mainz 05 - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Dortmund vs FSV Mainz 05 - HD - Bún Chả
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
 #EXTINF:-1 tvg-id="IcODiNG" tvg-name="Borussia Dortmund vs FSV Mainz 05 - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Dortmund vs FSV Mainz 05 - FullHD - Bún Chả
@@ -11,10 +11,6 @@ https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="JSEUUWl" tvg-name="Everton vs Fulham - FullHD" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="Carabao Cup",Everton vs Fulham - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="uVidMbx" tvg-name="Napoli vs Frosinone - HD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Napoli vs Frosinone - HD - Mỳ Tôm
-https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="uVidMbx" tvg-name="Napoli vs Frosinone - FullHD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Napoli vs Frosinone - FullHD - Mỳ Tôm
-https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="OXQBVgt" tvg-name="Off fan Chelsea vs Newcastle United - HD" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="Carabao Cup",Off fan Chelsea vs Newcastle United - HD - Phở Bò
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="OXQBVgt" tvg-name="Off fan Chelsea vs Newcastle United - FullHD" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="Carabao Cup",Off fan Chelsea vs Newcastle United - FullHD - Phở Bò
@@ -23,3 +19,7 @@ https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 #EXTINF:-1 tvg-id="mB4m6l0" tvg-name="Chelsea vs Off fan Newcastle - FullHD" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="Carabao Cup",Chelsea vs Off fan Newcastle - FullHD - Bánh Cuốn
 https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="s2mWMOv" tvg-name="Off fan Atletico vs Getafe - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Off fan Atletico vs Getafe - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="s2mWMOv" tvg-name="Off fan Atletico vs Getafe - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Off fan Atletico vs Getafe - FullHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
