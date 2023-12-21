@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="64iLGrG" tvg-name="USV Hercules vs AFC Ajax - HD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",USV Hercules vs AFC Ajax - HD - Người Sói
-https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
-#EXTINF:-1 tvg-id="64iLGrG" tvg-name="USV Hercules vs AFC Ajax - FullHD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",USV Hercules vs AFC Ajax - FullHD - Người Sói
-https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="x3ZYdtN" tvg-name="Al Hilal vs Abha - HD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al Hilal vs Abha - HD - Người Già
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
 #EXTINF:-1 tvg-id="x3ZYdtN" tvg-name="Al Hilal vs Abha - FullHD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al Hilal vs Abha - FullHD - Người Già
@@ -15,3 +11,13 @@ https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CKqrHjN" tvg-name="Cadiz vs Real Sociedad - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Cadiz vs Real Sociedad - FullHD - Phở Bò
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="I9MN9wL" tvg-name="PSV Eindhoven vs FC Twente Enschede - HD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",PSV Eindhoven vs FC Twente Enschede - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 tvg-id="I9MN9wL" tvg-name="PSV Eindhoven vs FC Twente Enschede - FullHD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",PSV Eindhoven vs FC Twente Enschede - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="TGiROTM" tvg-name="Crystal Palace vs Brighton Hove Albion - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Crystal Palace vs Brighton Hove Albion - HD - Người Cồn
+https://obevcimanyd179249207.thapcam.link/live/may1SD/playlist.m3u8
+#EXTINF:-1 tvg-id="TGiROTM" tvg-name="Crystal Palace vs Brighton Hove Albion - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Crystal Palace vs Brighton Hove Albion - HD - Người Cồn
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TGiROTM" tvg-name="Crystal Palace vs Brighton Hove Albion - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Crystal Palace vs Brighton Hove Albion - FullHD - Người Cồn
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
