@@ -3,7 +3,11 @@
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="TNV5Kcu" tvg-name="Urawa Red Diamonds vs Al Ahly SC - FullHD" tvg-logo="https://img.thesports.com/football/competition/9f74b3355416624943f8b01ec790c65f.png" group-title="FIFA Club World Cup",Urawa Red Diamonds vs Al Ahly SC - FullHD - Người Nện
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="Yvojz0o" tvg-name="Al-Hazm vs Al Ahli Jeddah - HD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Hazm vs Al Ahli Jeddah - HD - Người Cồn
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Yvojz0o" tvg-name="Al-Hazm vs Al Ahli Jeddah - FullHD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Hazm vs Al Ahli Jeddah - FullHD - Người Cồn
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Yvojz0o" tvg-name="Al-Hazm vs Al Ahli Jeddah - HD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Hazm vs Al Ahli Jeddah - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Yvojz0o" tvg-name="Al-Hazm vs Al Ahli Jeddah - FullHD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Hazm vs Al Ahli Jeddah - FullHD - Người Sói
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="E3vOOy6" tvg-name="Al-Nassr(KSA) vs Al-Ettifaq - HD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Nassr(KSA) vs Al-Ettifaq - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 tvg-id="E3vOOy6" tvg-name="Al-Nassr(KSA) vs Al-Ettifaq - FullHD" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Saudi Professional League",Al-Nassr(KSA) vs Al-Ettifaq - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
