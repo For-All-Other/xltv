@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ehE8HmL" tvg-name="Quảng Nam vs Hải Phòng - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Quảng Nam vs Hải Phòng - HD - Người Thỏ
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ehE8HmL" tvg-name="Quảng Nam vs Hải Phòng - FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Quảng Nam vs Hải Phòng - FHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="kcIVD7J" tvg-name="Bình Định vs Viettel - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Định vs Viettel - HD - Người Già
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
 #EXTINF:-1 tvg-id="kcIVD7J" tvg-name="Bình Định vs Viettel - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Định vs Viettel - FullHD - Người Già
@@ -15,3 +11,11 @@ https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="lyWOWwg" tvg-name="Frosinone vs Juventus - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Frosinone vs Juventus - FullHD - Phở Bò
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="p2YNTTW" tvg-name="West Ham United vs Manchester United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",West Ham United vs Manchester United - HD - Bánh Cuốn & Bún Chả
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="p2YNTTW" tvg-name="West Ham United vs Manchester United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",West Ham United vs Manchester United - FullHD - Bánh Cuốn & Bún Chả
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="LHtt78E" tvg-name="Đầu cầu vs Chữa lành - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu vs Chữa lành - HD - Người Rơi & Người Thỏ & Perry
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="LHtt78E" tvg-name="Đầu cầu vs Chữa lành - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu vs Chữa lành - FullHD - Người Rơi & Người Thỏ & Perry
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
