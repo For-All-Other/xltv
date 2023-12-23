@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="xCaOn0P" tvg-name="Leeds United vs Ipswich Town - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Leeds United vs Ipswich Town - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 tvg-id="xCaOn0P" tvg-name="Leeds United vs Ipswich Town - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Leeds United vs Ipswich Town - FullHD - Người Sói
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="kcIVD7J" tvg-name="Bình Định vs Viettel - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Định vs Viettel - HD - Người Già
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
 #EXTINF:-1 tvg-id="kcIVD7J" tvg-name="Bình Định vs Viettel - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Bình Định vs Viettel - FullHD - Người Già
@@ -11,10 +15,6 @@ https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="lyWOWwg" tvg-name="Frosinone vs Juventus - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Frosinone vs Juventus - FullHD - Phở Bò
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="xCaOn0P" tvg-name="Leeds United vs Ipswich Town - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Leeds United vs Ipswich Town - HD - Người Sói
-https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
-#EXTINF:-1 tvg-id="xCaOn0P" tvg-name="Leeds United vs Ipswich Town - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Leeds United vs Ipswich Town - FullHD - Người Sói
-https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="p2YNTTW" tvg-name="West Ham United vs Manchester United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",West Ham United vs Manchester United - HD - Bánh Cuốn & Bún Chả
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="p2YNTTW" tvg-name="West Ham United vs Manchester United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",West Ham United vs Manchester United - FullHD - Bánh Cuốn & Bún Chả
