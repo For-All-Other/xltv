@@ -3,10 +3,6 @@
 https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
 #EXTINF:-1 tvg-id="IFPlh2c" tvg-name="Bologna vs Atalanta - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Bologna vs Atalanta - FullHD - Mỳ Tôm
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="p2YNTTW" tvg-name="West Ham United vs Manchester United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",West Ham United vs Manchester United - HD - Bánh Cuốn & Bún Chả
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="p2YNTTW" tvg-name="West Ham United vs Manchester United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",West Ham United vs Manchester United - FullHD - Bánh Cuốn & Bún Chả
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="LHtt78E" tvg-name="Đầu cầu vs Chữa lành - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu vs Chữa lành - HD - Người Rơi & Người Thỏ & Perry
 https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="LHtt78E" tvg-name="Đầu cầu vs Chữa lành - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu vs Chữa lành - FullHD - Người Rơi & Người Thỏ & Perry
@@ -15,7 +11,19 @@ https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="rFWKHIZ" tvg-name="Fulham vs Burnley - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Burnley - FullHD - Người Thỏ
 https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="xdx5Ser" tvg-name="Nottingham Forest vs Bournemouth AFC - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Nottingham Forest vs Bournemouth AFC - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="xdx5Ser" tvg-name="Nottingham Forest vs Bournemouth AFC - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Nottingham Forest vs Bournemouth AFC - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="aEM6rdY" tvg-name="Atletico Madrid vs Sevilla - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Atletico Madrid vs Sevilla - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="aEM6rdY" tvg-name="Atletico Madrid vs Sevilla - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Atletico Madrid vs Sevilla - FullHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="gKnZCRP" tvg-name="Luton Town vs Newcastle United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Luton Town vs Newcastle United - HD - Người Cồn
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 #EXTINF:-1 tvg-id="gKnZCRP" tvg-name="Luton Town vs Newcastle United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Luton Town vs Newcastle United - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="7CQ7LkG" tvg-name="Off fan Tottenham vs Everton - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Off fan Tottenham vs Everton - HD - Người Nện
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="7CQ7LkG" tvg-name="Off fan Tottenham vs Everton - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Off fan Tottenham vs Everton - FullHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
