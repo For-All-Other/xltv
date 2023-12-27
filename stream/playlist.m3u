@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6diqJh3" tvg-name="Nam Định vs Viettel - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Nam Định vs Viettel - HD - Người Nện
-https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
-#EXTINF:-1 tvg-id="6diqJh3" tvg-name="Nam Định vs Viettel - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Nam Định vs Viettel - FullHD - Người Nện
-https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="GVXH1rC" tvg-name="Hải Phòng vs Bình Định - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Hải Phòng vs Bình Định - HD - Người Sói
 https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="GVXH1rC" tvg-name="Hải Phòng vs Bình Định - FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="V League",Hải Phòng vs Bình Định - FullHD - Người Sói
