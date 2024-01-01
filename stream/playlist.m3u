@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="jBEGyI2" tvg-name="Japan vs Thailand - HD" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Giao hữu quốc tế",Japan vs Thailand - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 tvg-id="jBEGyI2" tvg-name="Japan vs Thailand - FHD" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Giao hữu quốc tế",Japan vs Thailand - FHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
