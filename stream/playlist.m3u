@@ -3,3 +3,11 @@
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Fx9UJxO" tvg-name="Atalanta vs Sassuolo - FullHD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Atalanta vs Sassuolo - FullHD - Bánh Cuốn
 https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="aORxfiy" tvg-name="Celta Vigo vs Real Betis - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Celta Vigo vs Real Betis - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="aORxfiy" tvg-name="Celta Vigo vs Real Betis - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Celta Vigo vs Real Betis - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="JCnqgSB" tvg-name="Real Madrid vs Mallorca - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Madrid vs Mallorca - HD - Mỳ Tôm
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="JCnqgSB" tvg-name="Real Madrid vs Mallorca - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Real Madrid vs Mallorca - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
