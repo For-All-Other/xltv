@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="sBXai2f" tvg-name="Eintracht Frankfurt vs SC Freiburg - HD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Eintracht Frankfurt vs SC Freiburg - HD - Người Già
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="sBXai2f" tvg-name="Eintracht Frankfurt vs SC Freiburg - FullHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Eintracht Frankfurt vs SC Freiburg - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CDV4Y1c" tvg-name="Perth Glory vs Melbourne Victory - HD" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="Australia A-League",Perth Glory vs Melbourne Victory - HD - Người Nện
 https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
 #EXTINF:-1 tvg-id="CDV4Y1c" tvg-name="Perth Glory vs Melbourne Victory - FullHD" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="Australia A-League",Perth Glory vs Melbourne Victory - FullHD - Người Nện
@@ -7,10 +11,6 @@ https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 #EXTINF:-1 tvg-id="tynOi2k" tvg-name="Inter Milan vs Verona - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Inter Milan vs Verona - FullHD - Bánh Cuốn
 https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="sBXai2f" tvg-name="Eintracht Frankfurt vs SC Freiburg - HD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Eintracht Frankfurt vs SC Freiburg - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="sBXai2f" tvg-name="Eintracht Frankfurt vs SC Freiburg - FullHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Eintracht Frankfurt vs SC Freiburg - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="OX5W2bg" tvg-name="Millwall vs Leicester City - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Millwall vs Leicester City - HD - Người Thỏ
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="OX5W2bg" tvg-name="Millwall vs Leicester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Millwall vs Leicester City - FullHD - Người Thỏ
@@ -23,3 +23,7 @@ https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="ZJDyXq0" tvg-name="Sunderland A.F.C vs Newcastle United - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Sunderland A.F.C vs Newcastle United - FullHD - Người Sói
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="9MVsE2U" tvg-name="South Korea vs Iraq - HD" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Giao hữu quốc tế",South Korea vs Iraq - HD - Trâu Gác Bếp
+https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="9MVsE2U" tvg-name="South Korea vs Iraq - FullHD" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Giao hữu quốc tế",South Korea vs Iraq - FullHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
