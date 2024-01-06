@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sBXai2f" tvg-name="Eintracht Frankfurt vs SC Freiburg - HD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Eintracht Frankfurt vs SC Freiburg - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="sBXai2f" tvg-name="Eintracht Frankfurt vs SC Freiburg - FullHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Eintracht Frankfurt vs SC Freiburg - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="OX5W2bg" tvg-name="Millwall vs Leicester City - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Millwall vs Leicester City - HD - Người Thỏ
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="OX5W2bg" tvg-name="Millwall vs Leicester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Millwall vs Leicester City - FullHD - Người Thỏ
@@ -23,3 +19,7 @@ https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
 #EXTINF:-1 tvg-id="mQP4FTi" tvg-name="Borussia Dortmund vs AZ Alkmaar - FullHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Borussia Dortmund vs AZ Alkmaar - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="jSSsflB" tvg-name="Basel vs Bayern Munchen - HD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Basel vs Bayern Munchen - HD - Người Nện
+https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="jSSsflB" tvg-name="Basel vs Bayern Munchen - FullHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Basel vs Bayern Munchen - FullHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
