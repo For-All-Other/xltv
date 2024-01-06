@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MUb23Jv" tvg-name="Stoke City vs Brighton Hove Albion - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Stoke City vs Brighton Hove Albion - HD - Mỳ Tôm
+#EXTINF:-1 tvg-id="yOJ6itt" tvg-name="Elche vs Girona - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Elche vs Girona - HD - Người Sói
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="yOJ6itt" tvg-name="Elche vs Girona - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Elche vs Girona - FullHD - Người Sói
+https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AgFF6z4" tvg-name="Middlesbrough vs Aston Villa - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Middlesbrough vs Aston Villa - HD - Người Cồn
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AgFF6z4" tvg-name="Middlesbrough vs Aston Villa - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Middlesbrough vs Aston Villa - FullHD - Người Cồn
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="xq7bOTp" tvg-name="Chelsea vs Preston North End - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Chelsea vs Preston North End - HD - Cáp Tần
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="MUb23Jv" tvg-name="Stoke City vs Brighton Hove Albion - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Stoke City vs Brighton Hove Albion - FullHD - Mỳ Tôm
+#EXTINF:-1 tvg-id="xq7bOTp" tvg-name="Chelsea vs Preston North End - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Chelsea vs Preston North End - FullHD - Cáp Tần
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="9ij7wDu" tvg-name="Queens Park Rangers (QPR) vs Bournemouth AFC - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Queens Park Rangers (QPR) vs Bournemouth AFC - HD - Phở Bò
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="9ij7wDu" tvg-name="Queens Park Rangers (QPR) vs Bournemouth AFC - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Queens Park Rangers (QPR) vs Bournemouth AFC - FullHD - Phở Bò
-https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="4IyVoUt" tvg-name="CD Lugo vs Atletico Madrid - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",CD Lugo vs Atletico Madrid - HD - Trâu Gác Bếp
-https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="4IyVoUt" tvg-name="CD Lugo vs Atletico Madrid - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",CD Lugo vs Atletico Madrid - FullHD - Trâu Gác Bếp
-https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="6aEjzRr" tvg-name="Southampton vs Walsall - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Southampton vs Walsall - HD - Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="6aEjzRr" tvg-name="Southampton vs Walsall - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Southampton vs Walsall - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="YimRDfw" tvg-name="RCD Espanyol vs Getafe - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",RCD Espanyol vs Getafe - HD - Người Thỏ
-https://1123139281.cdn.khmer-hd.com/Z1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="YimRDfw" tvg-name="RCD Espanyol vs Getafe - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",RCD Espanyol vs Getafe - FullHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
