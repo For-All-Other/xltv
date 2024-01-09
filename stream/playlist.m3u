@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LFjl39b" tvg-name="Borussia Dortmund vs Standard Liege - HD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Borussia Dortmund vs Standard Liege - HD - Bún Chả
+#EXTINF:-1 tvg-id="LFjl39b" tvg-name="Borussia Dortmund vs Standard Liege - HD1" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Borussia Dortmund vs Standard Liege - HD1 - Bún Chả
+https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
+#EXTINF:-1 tvg-id="LFjl39b" tvg-name="Borussia Dortmund vs Standard Liege - HD2" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Borussia Dortmund vs Standard Liege - HD2 - Bún Chả
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
 #EXTINF:-1 tvg-id="LFjl39b" tvg-name="Borussia Dortmund vs Standard Liege - FHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Borussia Dortmund vs Standard Liege - FHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="NgYPU1M" tvg-name="Lugano vs Racing Genk - HD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Lugano vs Racing Genk - HD - Người Nện
+#EXTINF:-1 tvg-id="NgYPU1M" tvg-name="Lugano vs Racing Genk - HD1" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Lugano vs Racing Genk - HD1 - Người Nện
+https://live-eu-125582312.thapcam.link/Z2HD/index.m3u8
+#EXTINF:-1 tvg-id="NgYPU1M" tvg-name="Lugano vs Racing Genk - HD2" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Lugano vs Racing Genk - HD2 - Người Nện
 https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="NgYPU1M" tvg-name="Lugano vs Racing Genk - FHD" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="International Club Friendly",Lugano vs Racing Genk - FHD - Người Nện
 https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
