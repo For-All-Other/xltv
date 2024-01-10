@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="XyQqUSL" tvg-name="Lazio vs Off fan Roma - HD1" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs Off fan Roma - HD1 - Người Nện
-https://live-eu-125582312.thapcam.link/Z2HD/index.m3u8
-#EXTINF:-1 tvg-id="XyQqUSL" tvg-name="Lazio vs Off fan Roma - HD2" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs Off fan Roma - HD2 - Người Nện
-https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="XyQqUSL" tvg-name="Lazio vs Off fan Roma - FullHD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs Off fan Roma - FullHD - Người Nện
-https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="m5x6LLv" tvg-name="Lazio vs AS Roma - HD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs AS Roma - HD - Bánh Cuốn
-https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
-#EXTINF:-1 tvg-id="m5x6LLv" tvg-name="Lazio vs AS Roma - FullHD" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="Coppa Italia",Lazio vs AS Roma - FullHD - Bánh Cuốn
-https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="OCodv8r" tvg-name="Off fan Real vs Atletico Madrid - HD1" tvg-logo="https://img.thesports.com/football/competition/144c16ace4513a5c781f32f1d4abcb13.png" group-title="Siêu cúp Tây Ban Nha",Off fan Real vs Atletico Madrid - HD1 - Bún Chả
 https://live-eu-125582312.thapcam.link/Z1HD/index.m3u8
 #EXTINF:-1 tvg-id="OCodv8r" tvg-name="Off fan Real vs Atletico Madrid - HD2" tvg-logo="https://img.thesports.com/football/competition/144c16ace4513a5c781f32f1d4abcb13.png" group-title="Siêu cúp Tây Ban Nha",Off fan Real vs Atletico Madrid - HD2 - Bún Chả
