@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C3NSeKG" tvg-name="Sweden vs Estonia - HD" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Giao hữu quốc tế",Sweden vs Estonia - HD - Unknown
-https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8
 #EXTINF:-1 tvg-id="Hg5dW2J" tvg-name="Bayern Munchen vs TSG Hoffenheim - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Bayern Munchen vs TSG Hoffenheim - HD - Mỳ Tôm
 https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
 #EXTINF:-1 tvg-id="Hg5dW2J" tvg-name="Bayern Munchen vs TSG Hoffenheim - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Bayern Munchen vs TSG Hoffenheim - FullHD - Mỳ Tôm
 https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="o94A4HJ" tvg-name="Burnley vs Luton Town - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Luton Town - HD - Người Thỏ
+https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
+#EXTINF:-1 tvg-id="o94A4HJ" tvg-name="Burnley vs Luton Town - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Luton Town - FullHD - Người Thỏ
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="45rziQd" tvg-name="Sevilla vs Alaves - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Sevilla vs Alaves - HD - Người Già
 https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
 #EXTINF:-1 tvg-id="45rziQd" tvg-name="Sevilla vs Alaves - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Sevilla vs Alaves - FullHD - Người Già
@@ -13,7 +15,3 @@ https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
 #EXTINF:-1 tvg-id="kHbeGnY" tvg-name="Marseille vs Strasbourg - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Marseille vs Strasbourg - FullHD - Trâu Gác Bếp
 https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="o94A4HJ" tvg-name="Burnley vs Luton Town - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Luton Town - HD - Người Thỏ
-https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
-#EXTINF:-1 tvg-id="o94A4HJ" tvg-name="Burnley vs Luton Town - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Luton Town - FullHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
