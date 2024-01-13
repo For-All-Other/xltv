@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dKhb08k" tvg-name="West Bromwich(WBA) vs Blackburn Rovers - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Blackburn Rovers - HD - Bún Chả
+#EXTINF:-1 tvg-id="XpRto0B" tvg-name="Uzbekistan vs Syrian - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Uzbekistan vs Syrian - HD - Mỳ Tôm
+https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
+#EXTINF:-1 tvg-id="XpRto0B" tvg-name="Uzbekistan vs Syrian - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Uzbekistan vs Syrian - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="7R6bXNZ" tvg-name="Athletic Bilbao vs Real Sociedad - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Athletic Bilbao vs Real Sociedad - HD - Bánh Cuốn
+https://live-eu-125582312.thapcam.link/cuonHD/index.m3u8
+#EXTINF:-1 tvg-id="7R6bXNZ" tvg-name="Athletic Bilbao vs Real Sociedad - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Athletic Bilbao vs Real Sociedad - FullHD - Bánh Cuốn
+https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="VlYykdd" tvg-name="Darmstadt vs Borussia Dortmund - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Darmstadt vs Borussia Dortmund - HD - Bún Chả
 https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
-#EXTINF:-1 tvg-id="dKhb08k" tvg-name="West Bromwich(WBA) vs Blackburn Rovers - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Blackburn Rovers - FullHD - Bún Chả
+#EXTINF:-1 tvg-id="VlYykdd" tvg-name="Darmstadt vs Borussia Dortmund - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Darmstadt vs Borussia Dortmund - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="5k8dbHM" tvg-name="Monaco vs Reims - HD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Monaco vs Reims - HD - Người Nện
-https://live-eu-125582312.thapcam.link/nenHD/index.m3u8
-#EXTINF:-1 tvg-id="5k8dbHM" tvg-name="Monaco vs Reims - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Monaco vs Reims - FullHD - Người Nện
-https://obevcimanyd179249207.thapcam.link/live/nenFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="pcRq3Wz" tvg-name="Đầu cầu Newcastle vs Manchester City - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Newcastle vs Manchester City - HD - Người Thỏ
+https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
+#EXTINF:-1 tvg-id="pcRq3Wz" tvg-name="Đầu cầu Newcastle vs Manchester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Newcastle vs Manchester City - FullHD - Người Thỏ
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="i2zStsi" tvg-name="Newcastle United vs Off fan MC - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Off fan MC - HD - Người Già
+https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
+#EXTINF:-1 tvg-id="i2zStsi" tvg-name="Newcastle United vs Off fan MC - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Off fan MC - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
