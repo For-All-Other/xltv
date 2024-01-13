@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ZuSSoEx" tvg-name="Australia vs India - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Australia vs India - HD - Người Nện
-https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="ZuSSoEx" tvg-name="Australia vs India - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Australia vs India - FullHD - Người Nện
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KOJQHrA" tvg-name="Coventry City vs Leicester City - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Coventry City vs Leicester City - HD - Người Thỏ
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="KOJQHrA" tvg-name="Coventry City vs Leicester City - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Coventry City vs Leicester City - FullHD - Người Thỏ
@@ -11,3 +7,7 @@ https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/Z1HD/index.m3u8
 #EXTINF:-1 tvg-id="tFJqmq6" tvg-name="Chelsea vs Fulham - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Chelsea vs Fulham - FullHD - Phở Bò & Trâu Gác Bếp
 https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="HoIMJYG" tvg-name="Napoli vs Salernitana - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Napoli vs Salernitana - HD - Người Cồn
+https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
+#EXTINF:-1 tvg-id="HoIMJYG" tvg-name="Napoli vs Salernitana - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Napoli vs Salernitana - FullHD - Người Cồn
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
