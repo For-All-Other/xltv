@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5evWfS4" tvg-name="China vs Tajikistan - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",China vs Tajikistan - HD - Phở Bò
-https://live-eu-125582312.thapcam.link/Z3HD/index.m3u8
-#EXTINF:-1 tvg-id="5evWfS4" tvg-name="China vs Tajikistan - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",China vs Tajikistan - FullHD - Phở Bò
-https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="dKhb08k" tvg-name="West Bromwich(WBA) vs Blackburn Rovers - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Blackburn Rovers - HD - Bún Chả
 https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
 #EXTINF:-1 tvg-id="dKhb08k" tvg-name="West Bromwich(WBA) vs Blackburn Rovers - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",West Bromwich(WBA) vs Blackburn Rovers - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="QeQit9o" tvg-name="Augsburg vs Bayer Leverkusen - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Augsburg vs Bayer Leverkusen - HD - Người Sói
-https://live-eu-125582312.thapcam.link/soiHD/index.m3u8
-#EXTINF:-1 tvg-id="QeQit9o" tvg-name="Augsburg vs Bayer Leverkusen - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Augsburg vs Bayer Leverkusen - FullHD - Người Sói
-https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="wfc5ZIz" tvg-name="RB Leipzig vs Eintracht Frankfurt - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",RB Leipzig vs Eintracht Frankfurt - HD - Bánh Cuốn
-https://live-eu-125582312.thapcam.link/cuonHD/index.m3u8
-#EXTINF:-1 tvg-id="wfc5ZIz" tvg-name="RB Leipzig vs Eintracht Frankfurt - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",RB Leipzig vs Eintracht Frankfurt - FullHD - Bánh Cuốn
-https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="5k8dbHM" tvg-name="Monaco vs Reims - HD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Monaco vs Reims - HD - Người Nện
 https://live-eu-125582312.thapcam.link/nenHD/index.m3u8
 #EXTINF:-1 tvg-id="5k8dbHM" tvg-name="Monaco vs Reims - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Monaco vs Reims - FullHD - Người Nện
