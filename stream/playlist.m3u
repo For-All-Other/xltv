@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="qMda9mJ" tvg-name="Ivory Coast vs Guinea Bissau - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Guinea Bissau - HD - Người Già
-https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
-#EXTINF:-1 tvg-id="qMda9mJ" tvg-name="Ivory Coast vs Guinea Bissau - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Guinea Bissau - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="1xw5RGq" tvg-name="Monza vs Inter Milan - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Monza vs Inter Milan - HD - Mỳ Tôm
 https://live-eu-125582312.thapcam.link/may2HD/index.m3u8
 #EXTINF:-1 tvg-id="1xw5RGq" tvg-name="Monza vs Inter Milan - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Monza vs Inter Milan - FullHD - Mỳ Tôm
 https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="qMda9mJ" tvg-name="Ivory Coast vs Guinea Bissau - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Guinea Bissau - HD - Người Già
+https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
+#EXTINF:-1 tvg-id="qMda9mJ" tvg-name="Ivory Coast vs Guinea Bissau - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Guinea Bissau - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
