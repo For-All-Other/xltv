@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - HD - Bún Chả
+https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
+#EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - FullHD - Bún Chả
+https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="uJ1xTLX" tvg-name="Nigeria vs Equatorial Guinea - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Nigeria vs Equatorial Guinea - HD - Mỳ Tôm
 https://live-eu-125582312.thapcam.link/may2HD/index.m3u8
 #EXTINF:-1 tvg-id="uJ1xTLX" tvg-name="Nigeria vs Equatorial Guinea - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Nigeria vs Equatorial Guinea - FullHD - Mỳ Tôm
@@ -15,7 +19,3 @@ https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
 #EXTINF:-1 tvg-id="TbQc0CE" tvg-name="Everton vs Aston Villa - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Everton vs Aston Villa - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - HD - Bún Chả
-https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
-#EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - FullHD - Bún Chả
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
