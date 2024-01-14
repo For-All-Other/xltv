@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - HD - Bún Chả
-https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
-#EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - FullHD - Bún Chả
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="udZtJVE" tvg-name="Borussia Monchengladbach vs VfB Stuttgart - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Monchengladbach vs VfB Stuttgart - HD - Trâu Gác Bếp
 https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
 #EXTINF:-1 tvg-id="udZtJVE" tvg-name="Borussia Monchengladbach vs VfB Stuttgart - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Monchengladbach vs VfB Stuttgart - FullHD - Trâu Gác Bếp
