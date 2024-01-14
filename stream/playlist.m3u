@@ -7,10 +7,6 @@ https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
 #EXTINF:-1 tvg-id="x2X8Kk5" tvg-name="Off fan Real vs Barcelona - FullHD" tvg-logo="https://img.thesports.com/football/competition/144c16ace4513a5c781f32f1d4abcb13.png" group-title="Siêu cúp Tây Ban Nha",Off fan Real vs Barcelona - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="qNfVt9f" tvg-name="Ghana vs Cape Verde - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ghana vs Cape Verde - HD - Trâu Gác Bếp
-https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
-#EXTINF:-1 tvg-id="qNfVt9f" tvg-name="Ghana vs Cape Verde - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ghana vs Cape Verde - FullHD - Trâu Gác Bếp
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="7ZG6S4h" tvg-name="Lens vs Paris Saint Germain (PSG) - HD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Lens vs Paris Saint Germain (PSG) - HD - Mỳ Tôm
 https://live-eu-125582312.thapcam.link/may2HD/index.m3u8
 #EXTINF:-1 tvg-id="7ZG6S4h" tvg-name="Lens vs Paris Saint Germain (PSG) - FullHD" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ligue 1",Lens vs Paris Saint Germain (PSG) - FullHD - Mỳ Tôm
@@ -19,3 +15,7 @@ https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
 #EXTINF:-1 tvg-id="LU4dxAs" tvg-name="AC Milan vs AS Roma - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",AC Milan vs AS Roma - FullHD - Người Già
 https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="qNfVt9f" tvg-name="Ghana vs Cape Verde - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ghana vs Cape Verde - HD - Trâu Gác Bếp
+https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
+#EXTINF:-1 tvg-id="qNfVt9f" tvg-name="Ghana vs Cape Verde - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ghana vs Cape Verde - FullHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
