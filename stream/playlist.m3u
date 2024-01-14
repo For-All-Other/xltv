@@ -3,6 +3,10 @@
 https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
 #EXTINF:-1 tvg-id="PmdENrQ" tvg-name="United Arab Emirates vs Hong Kong - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",United Arab Emirates vs Hong Kong - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="udZtJVE" tvg-name="Borussia Monchengladbach vs VfB Stuttgart - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Monchengladbach vs VfB Stuttgart - HD - Trâu Gác Bếp
+https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
+#EXTINF:-1 tvg-id="udZtJVE" tvg-name="Borussia Monchengladbach vs VfB Stuttgart - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Monchengladbach vs VfB Stuttgart - FullHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="95vIgIV" tvg-name="Off fan MU vs Tottenham Hotspur - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Off fan MU vs Tottenham Hotspur - HD - Người Rơi & Người Thỏ
 https://live-eu-125582312.thapcam.link/Z1HD/index.m3u8
 #EXTINF:-1 tvg-id="95vIgIV" tvg-name="Off fan MU vs Tottenham Hotspur - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Off fan MU vs Tottenham Hotspur - FullHD - Người Rơi & Người Thỏ
@@ -15,7 +19,3 @@ https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="9Odu9hJ" tvg-name="Manchester United vs Tottenham Hotspur - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Manchester United vs Tottenham Hotspur - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="udZtJVE" tvg-name="Borussia Monchengladbach vs VfB Stuttgart - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Monchengladbach vs VfB Stuttgart - HD - Trâu Gác Bếp
-https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
-#EXTINF:-1 tvg-id="udZtJVE" tvg-name="Borussia Monchengladbach vs VfB Stuttgart - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Borussia Monchengladbach vs VfB Stuttgart - FullHD - Trâu Gác Bếp
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
