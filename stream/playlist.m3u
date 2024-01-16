@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="E0tz5fm" tvg-name="Getafe vs Sevilla - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Getafe vs Sevilla - HD - Người Thỏ
-https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
-#EXTINF:-1 tvg-id="E0tz5fm" tvg-name="Getafe vs Sevilla - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Getafe vs Sevilla - FullHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="9061t6J" tvg-name="Bristol City vs West Ham United - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Bristol City vs West Ham United - HD - Trâu Gác Bếp
 https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
 #EXTINF:-1 tvg-id="9061t6J" tvg-name="Bristol City vs West Ham United - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Bristol City vs West Ham United - FullHD - Trâu Gác Bếp
