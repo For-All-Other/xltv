@@ -3,21 +3,19 @@
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="E0tz5fm" tvg-name="Getafe vs Sevilla - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Getafe vs Sevilla - FullHD - Người Thỏ
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="oIKSGFa" tvg-name="Wolves vs Brentford - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Wolves vs Brentford - HD - Người Già
-https://live-eu-125582312.thapcam.link/Z2HD/index.m3u8
-#EXTINF:-1 tvg-id="oIKSGFa" tvg-name="Wolves vs Brentford - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Wolves vs Brentford - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="9061t6J" tvg-name="Bristol City vs West Ham United - HD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Bristol City vs West Ham United - HD - Trâu Gác Bếp
 https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
 #EXTINF:-1 tvg-id="9061t6J" tvg-name="Bristol City vs West Ham United - FullHD" tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="FA Cup",Bristol City vs West Ham United - FullHD - Trâu Gác Bếp
 https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="tVrM343" tvg-name="Juventus vs Sassuolo - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Sassuolo - HD - Phở Bò
-https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
-#EXTINF:-1 tvg-id="tVrM343" tvg-name="Juventus vs Sassuolo - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Sassuolo - FullHD - Phở Bò
-https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="ugZZu6E" tvg-name="Athletic Bilbao vs Alaves - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Athletic Bilbao vs Alaves - HD - Người Sói
 https://live-eu-125582312.thapcam.link/soiHD/index.m3u8
 #EXTINF:-1 tvg-id="ugZZu6E" tvg-name="Athletic Bilbao vs Alaves - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Athletic Bilbao vs Alaves - FullHD - Người Sói
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="k0uVA5t" tvg-name="Mali vs South Africa - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Mali vs South Africa - HD - Unknown
-https://obevcimanyd179314182.thapcam.link/live/may71/playlist.m3u8
+#EXTINF:-1 tvg-id="k0uVA5t" tvg-name="Mali vs South Africa - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Mali vs South Africa - HD - Người Già
+https://live-eu-125582312.thapcam.link/Z2HD/index.m3u8
+#EXTINF:-1 tvg-id="k0uVA5t" tvg-name="Mali vs South Africa - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Mali vs South Africa - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="tVrM343" tvg-name="Juventus vs Sassuolo - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Sassuolo - HD - Phở Bò
+https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
+#EXTINF:-1 tvg-id="tVrM343" tvg-name="Juventus vs Sassuolo - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Juventus vs Sassuolo - FullHD - Phở Bò
+https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
