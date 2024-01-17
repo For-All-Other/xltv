@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="kVUaMbd" tvg-name="PSV Eindhoven vs FC Twente - HD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",PSV Eindhoven vs FC Twente - HD - Mỳ Tôm
+https://live-eu-125582312.thapcam.link/myHD/index.m3u8
+#EXTINF:-1 tvg-id="kVUaMbd" tvg-name="PSV Eindhoven vs FC Twente - FullHD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",PSV Eindhoven vs FC Twente - FullHD - Mỳ Tôm
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Y7AvbMN" tvg-name="Valencia vs Celta Vigo - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Valencia vs Celta Vigo - HD - Người Thỏ
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="Y7AvbMN" tvg-name="Valencia vs Celta Vigo - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Valencia vs Celta Vigo - FullHD - Người Thỏ
@@ -11,10 +15,6 @@ https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
 #EXTINF:-1 tvg-id="L8eSUaT" tvg-name="Osasuna vs Real Sociedad - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Osasuna vs Real Sociedad - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="kVUaMbd" tvg-name="PSV Eindhoven vs FC Twente - HD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",PSV Eindhoven vs FC Twente - HD - Mỳ Tôm
-https://live-eu-125582312.thapcam.link/myHD/index.m3u8
-#EXTINF:-1 tvg-id="kVUaMbd" tvg-name="PSV Eindhoven vs FC Twente - FullHD" tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Netherlands KNVB Cup",PSV Eindhoven vs FC Twente - FullHD - Mỳ Tôm
-https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="q1cUsFC" tvg-name="Girona vs Rayo Vallecano - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Girona vs Rayo Vallecano - HD - Trâu Gác Bếp
 https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
 #EXTINF:-1 tvg-id="q1cUsFC" tvg-name="Girona vs Rayo Vallecano - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Girona vs Rayo Vallecano - FullHD - Trâu Gác Bếp
