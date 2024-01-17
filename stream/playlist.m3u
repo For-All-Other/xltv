@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="YDAvdod" tvg-name="Morocco vs Tanzania - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Morocco vs Tanzania - HD - Phở Bò
+https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
+#EXTINF:-1 tvg-id="YDAvdod" tvg-name="Morocco vs Tanzania - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Morocco vs Tanzania - FullHD - Phở Bò
+https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
