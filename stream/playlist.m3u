@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HFpatlA" tvg-name="Lebanon vs China - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Lebanon vs China - HD - Người Sói
+https://live-eu-125582312.thapcam.link/soiHD/index.m3u8
+#EXTINF:-1 tvg-id="HFpatlA" tvg-name="Lebanon vs China - FHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Lebanon vs China - FHD - Người Sói
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
