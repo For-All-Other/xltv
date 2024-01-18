@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="s4mcJb7" tvg-name="Brisbane Roar vs FC Macarthur - HD" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="Australia A-League",Brisbane Roar vs FC Macarthur - HD - Người Nện
+https://live-eu-125582312.thapcam.link/Z2HD/index.m3u8
+#EXTINF:-1 tvg-id="s4mcJb7" tvg-name="Brisbane Roar vs FC Macarthur - FHD" tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="Australia A-League",Brisbane Roar vs FC Macarthur - FHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8
