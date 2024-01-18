@@ -3,14 +3,6 @@
 https://live-eu-125582312.thapcam.link/may2HD/index.m3u8
 #EXTINF:-1 tvg-id="W55RXmU" tvg-name="Unionistas de Salamanca vs Barcelona - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Unionistas de Salamanca vs Barcelona - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="yPtjk4O" tvg-name="Atletico Madrid vs Off fan Real - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Atletico Madrid vs Off fan Real - HD - Mỳ Tôm
-https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
-#EXTINF:-1 tvg-id="yPtjk4O" tvg-name="Atletico Madrid vs Off fan Real - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Atletico Madrid vs Off fan Real - FullHD - Mỳ Tôm
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ox4jDSs" tvg-name="Off fan ATM vs Real Madrid - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Off fan ATM vs Real Madrid - HD - Trâu Gác Bếp
-https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="ox4jDSs" tvg-name="Off fan ATM vs Real Madrid - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Off fan ATM vs Real Madrid - FullHD - Trâu Gác Bếp
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="eTzWoO3" tvg-name="Egypt vs Ghana - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Egypt vs Ghana - HD - Người Già
 https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
 #EXTINF:-1 tvg-id="eTzWoO3" tvg-name="Egypt vs Ghana - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Egypt vs Ghana - FullHD - Người Già
@@ -19,3 +11,7 @@ https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
 #EXTINF:-1 tvg-id="Xsnt7a5" tvg-name="Napoli vs Fiorentina - FullHD" tvg-logo="https://img.thesports.com/football/competition/6eb390caeea95d74c8df35c5af7ff509.png" group-title="Siêu cúp Italia",Napoli vs Fiorentina - FullHD - Phở Bò
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="yPtjk4O" tvg-name="Atletico Madrid vs Real Madrid - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Atletico Madrid vs Real Madrid - HD - Mỳ Tôm & Trâu Gác Bếp
+https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
+#EXTINF:-1 tvg-id="yPtjk4O" tvg-name="Atletico Madrid vs Real Madrid - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Atletico Madrid vs Real Madrid - FullHD - Mỳ Tôm & Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
