@@ -3,11 +3,15 @@
 https://live-eu-125582312.thapcam.link/chaHD/index.m3u8
 #EXTINF:-1 tvg-id="md3USPS" tvg-name="Palestine vs United Arab Emirates - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Palestine vs United Arab Emirates - FullHD - Bún Chả
 https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="difIZoD" tvg-name="Ivory Coast vs Nigeria - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Nigeria - HD - Người Nện
-https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="difIZoD" tvg-name="Ivory Coast vs Nigeria - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Nigeria - FullHD - Người Nện
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="W55RXmU" tvg-name="Unionistas de Salamanca vs Barcelona - HD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Unionistas de Salamanca vs Barcelona - HD - Người Cồn
 https://live-eu-125582312.thapcam.link/may2HD/index.m3u8
 #EXTINF:-1 tvg-id="W55RXmU" tvg-name="Unionistas de Salamanca vs Barcelona - FullHD" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Copa Del Rey",Unionistas de Salamanca vs Barcelona - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="difIZoD" tvg-name="Ivory Coast vs Nigeria - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Nigeria - HD - Người Nện
+https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
+#EXTINF:-1 tvg-id="difIZoD" tvg-name="Ivory Coast vs Nigeria - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Ivory Coast vs Nigeria - FullHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Xsnt7a5" tvg-name="Napoli vs Fiorentina - HD" tvg-logo="https://img.thesports.com/football/competition/6eb390caeea95d74c8df35c5af7ff509.png" group-title="Siêu cúp Italia",Napoli vs Fiorentina - HD - Phở Bò
+https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
+#EXTINF:-1 tvg-id="Xsnt7a5" tvg-name="Napoli vs Fiorentina - FullHD" tvg-logo="https://img.thesports.com/football/competition/6eb390caeea95d74c8df35c5af7ff509.png" group-title="Siêu cúp Italia",Napoli vs Fiorentina - FullHD - Phở Bò
+https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
