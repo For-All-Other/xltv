@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="gwXeIFa" tvg-name="Equatorial Guinea vs Guinea Bissau - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Equatorial Guinea vs Guinea Bissau - HD - Unknown
+https://live-eu-125582312.thapcam.link/may71/index.m3u8
+#EXTINF:-1 tvg-id="zMc9X9O" tvg-name="India vs Uzbekistan - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",India vs Uzbekistan - HD - Người Thỏ
+https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
+#EXTINF:-1 tvg-id="zMc9X9O" tvg-name="India vs Uzbekistan - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",India vs Uzbekistan - FullHD - Người Thỏ
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
