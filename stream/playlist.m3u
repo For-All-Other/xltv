@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TWJu6BW" tvg-name="Quả bóng vàng vs Dubai - HD" tvg-logo="https://static.vebotv.app/leagues/%5Bremoval_ai%5D_tmp-634c72f586cc0.png" group-title="Trao giải quả bóng vàng",Quả bóng vàng vs Dubai - HD - Unknown
-https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 tvg-id="pVETi9J" tvg-name="Senegal vs Cameroon - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Senegal vs Cameroon - HD - Người Sói
+https://live-eu-125582312.thapcam.link/soiHD/index.m3u8
+#EXTINF:-1 tvg-id="pVETi9J" tvg-name="Senegal vs Cameroon - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Senegal vs Cameroon - FullHD - Người Sói
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
