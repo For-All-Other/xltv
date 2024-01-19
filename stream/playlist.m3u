@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="skYMLwU" tvg-name="Hong Kong vs Iran - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Hong Kong vs Iran - HD - Người Già
-https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
-#EXTINF:-1 tvg-id="skYMLwU" tvg-name="Hong Kong vs Iran - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Hong Kong vs Iran - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="fdeEFBN" tvg-name="Inter Milan vs Lazio - HD" tvg-logo="https://img.thesports.com/football/competition/6eb390caeea95d74c8df35c5af7ff509.png" group-title="Siêu cúp Italia",Inter Milan vs Lazio - HD - Mỳ Tôm
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="fdeEFBN" tvg-name="Inter Milan vs Lazio - FullHD" tvg-logo="https://img.thesports.com/football/competition/6eb390caeea95d74c8df35c5af7ff509.png" group-title="Siêu cúp Italia",Inter Milan vs Lazio - FullHD - Mỳ Tôm
