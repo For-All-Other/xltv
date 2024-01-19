@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="W4jePh3" tvg-name="Sunderland A.F.C vs Hull City - HD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Sunderland A.F.C vs Hull City - HD - Người Thỏ
-https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="W4jePh3" tvg-name="Sunderland A.F.C vs Hull City - FullHD" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Hạng nhất Anh",Sunderland A.F.C vs Hull City - FullHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="cXpROnb" tvg-name="Benfica vs Boavista FC - HD" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Vô địch quốc gia BĐN",Benfica vs Boavista FC - HD - Người Già
 https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
 #EXTINF:-1 tvg-id="cXpROnb" tvg-name="Benfica vs Boavista FC - FullHD" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Vô địch quốc gia BĐN",Benfica vs Boavista FC - FullHD - Người Già
 https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="M6Ie0a0" tvg-name="Alaves vs Cadiz - HD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Alaves vs Cadiz - HD - Trâu Gác Bếp
-https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
-#EXTINF:-1 tvg-id="M6Ie0a0" tvg-name="Alaves vs Cadiz - FullHD" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="La Liga",Alaves vs Cadiz - FullHD - Trâu Gác Bếp
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
