@@ -3,3 +3,7 @@
 https://live-eu-125582312.thapcam.link/soiHD/index.m3u8
 #EXTINF:-1 tvg-id="pVETi9J" tvg-name="Senegal vs Cameroon - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Senegal vs Cameroon - FullHD - Người Sói
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="skYMLwU" tvg-name="Hong Kong vs Iran - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Hong Kong vs Iran - HD - Người Già
+https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
+#EXTINF:-1 tvg-id="skYMLwU" tvg-name="Hong Kong vs Iran - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Hong Kong vs Iran - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
