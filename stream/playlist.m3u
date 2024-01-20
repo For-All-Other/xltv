@@ -1,25 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JuEwAEM" tvg-name="Bahrain vs Malaysia - HD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Bahrain vs Malaysia - HD - Phở Bò
-https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
-#EXTINF:-1 tvg-id="JuEwAEM" tvg-name="Bahrain vs Malaysia - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Bahrain vs Malaysia - FullHD - Phở Bò
-https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="k7jh24g" tvg-name="Darmstadt vs Eintracht Frankfurt - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Darmstadt vs Eintracht Frankfurt - HD - Người Thỏ
-https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="k7jh24g" tvg-name="Darmstadt vs Eintracht Frankfurt - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Darmstadt vs Eintracht Frankfurt - FullHD - Người Thỏ
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BSIT0TS" tvg-name="VfL Bochum vs VfB Stuttgart - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfL Bochum vs VfB Stuttgart - HD - Trâu Gác Bếp
-https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
-#EXTINF:-1 tvg-id="BSIT0TS" tvg-name="VfL Bochum vs VfB Stuttgart - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfL Bochum vs VfB Stuttgart - FullHD - Trâu Gác Bếp
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="qhbktt0" tvg-name="FC Koln vs Borussia Dortmund - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",FC Koln vs Borussia Dortmund - HD - Bún Chả
-https://live-eu-125582312.thapcam.link/may2HD/index.m3u8
-#EXTINF:-1 tvg-id="qhbktt0" tvg-name="FC Koln vs Borussia Dortmund - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",FC Koln vs Borussia Dortmund - FullHD - Bún Chả
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="nqy8Rdo" tvg-name="SC Freiburg vs TSG Hoffenheim - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",SC Freiburg vs TSG Hoffenheim - HD - Người Già
-https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
-#EXTINF:-1 tvg-id="nqy8Rdo" tvg-name="SC Freiburg vs TSG Hoffenheim - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",SC Freiburg vs TSG Hoffenheim - FullHD - Người Già
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="A3ZCKT3" tvg-name="Bordeaux vs Nice - HD" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="Coupe de France",Bordeaux vs Nice - HD - Người Cồn
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="A3ZCKT3" tvg-name="Bordeaux vs Nice - FullHD" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="Coupe de France",Bordeaux vs Nice - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BSIT0TS" tvg-name="VfL Bochum vs VfB Stuttgart - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfL Bochum vs VfB Stuttgart - HD - Trâu Gác Bếp
+https://live-eu-125582312.thapcam.link/trauHD/index.m3u8
+#EXTINF:-1 tvg-id="BSIT0TS" tvg-name="VfL Bochum vs VfB Stuttgart - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfL Bochum vs VfB Stuttgart - FullHD - Trâu Gác Bếp
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
