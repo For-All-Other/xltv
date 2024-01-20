@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MfAOA0O" tvg-name="Brentford vs Nottingham Forest - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brentford vs Nottingham Forest - HD - Cáp Tần
-https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="MfAOA0O" tvg-name="Brentford vs Nottingham Forest - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Brentford vs Nottingham Forest - FullHD - Cáp Tần
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Zhi0clj" tvg-name="Orleans US 45 vs Paris Saint Germain (PSG) - HD" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="Coupe de France",Orleans US 45 vs Paris Saint Germain (PSG) - HD - Bún Chả
 https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
 #EXTINF:-1 tvg-id="Zhi0clj" tvg-name="Orleans US 45 vs Paris Saint Germain (PSG) - FullHD" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="Coupe de France",Orleans US 45 vs Paris Saint Germain (PSG) - FullHD - Bún Chả
