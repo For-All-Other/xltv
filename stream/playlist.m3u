@@ -3,10 +3,6 @@
 https://live-eu-125582312.thapcam.link/phoHD/index.m3u8
 #EXTINF:-1 tvg-id="JuEwAEM" tvg-name="Bahrain vs Malaysia - FullHD" tvg-logo="https://img.thesports.com/football/competition/994a2188cb333e4b485e6ff2976710e6.png" group-title="AFC Asian Cup",Bahrain vs Malaysia - FullHD - Phở Bò
 https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BKR6Hyb" tvg-name="Algeria vs Burkina Faso - HD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Algeria vs Burkina Faso - HD - Người Nện
-https://live-eu-125582312.thapcam.link/Z3HD/index.m3u8
-#EXTINF:-1 tvg-id="BKR6Hyb" tvg-name="Algeria vs Burkina Faso - FullHD" tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Africa Cup of Nations",Algeria vs Burkina Faso - FullHD - Người Nện
-https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="k7jh24g" tvg-name="Darmstadt vs Eintracht Frankfurt - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Darmstadt vs Eintracht Frankfurt - HD - Người Thỏ
 https://live-eu-125582312.thapcam.link/may3HD/index.m3u8
 #EXTINF:-1 tvg-id="k7jh24g" tvg-name="Darmstadt vs Eintracht Frankfurt - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Darmstadt vs Eintracht Frankfurt - FullHD - Người Thỏ
@@ -23,3 +19,7 @@ https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
 https://live-eu-125582312.thapcam.link/oldHD/index.m3u8
 #EXTINF:-1 tvg-id="nqy8Rdo" tvg-name="SC Freiburg vs TSG Hoffenheim - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",SC Freiburg vs TSG Hoffenheim - FullHD - Người Già
 https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="A3ZCKT3" tvg-name="Bordeaux vs Nice - HD" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="Coupe de France",Bordeaux vs Nice - HD - Người Cồn
+https://live-eu-125582312.thapcam.link/may1HD/index.m3u8
+#EXTINF:-1 tvg-id="A3ZCKT3" tvg-name="Bordeaux vs Nice - FullHD" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="Coupe de France",Bordeaux vs Nice - FullHD - Người Cồn
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
