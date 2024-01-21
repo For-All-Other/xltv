@@ -1,8 +1,9 @@
 name: Update Playlist
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
+  # schedule:
+  #   - cron: '*/10 * * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
