@@ -1,21 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6W9ynhV" tvg-name="RB Leipzig vs Union Berlin - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",RB Leipzig vs Union Berlin - HD - Người Nện
+#EXTINF:-1 tvg-id="5X7kxx3" tvg-name="Napoli vs Genoa - HD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Napoli vs Genoa - HD - Mỳ Tôm
 https://live-eu-cizve9esipliv.thapcam.link/Z3HD/index.m3u8
-#EXTINF:-1 tvg-id="6W9ynhV" tvg-name="RB Leipzig vs Union Berlin - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",RB Leipzig vs Union Berlin - FullHD - Người Nện
+#EXTINF:-1 tvg-id="5X7kxx3" tvg-name="Napoli vs Genoa - FullHD" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Serie A",Napoli vs Genoa - FullHD - Mỳ Tôm
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="ciDcB47" tvg-name="Đầu cầu Pẻ Ry vs West Ham United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Pẻ Ry vs West Ham United - HD - Perry
-https://live-eu-cizve9esipliv.thapcam.link/Z1HD/index.m3u8
-#EXTINF:-1 tvg-id="ciDcB47" tvg-name="Đầu cầu Pẻ Ry vs West Ham United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Đầu cầu Pẻ Ry vs West Ham United - FullHD - Perry
-https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="pdkVFcX" tvg-name="Arsenal vs Liverpool - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Liverpool - HD - Mỳ Tôm
-https://live-eu-cizve9esipliv.thapcam.link/may2HD/index.m3u8
-#EXTINF:-1 tvg-id="pdkVFcX" tvg-name="Arsenal vs Liverpool - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Liverpool - FullHD - Mỳ Tôm
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="HJdJ7xN" tvg-name="Off fan Arsenal vs Liverpool - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Off fan Arsenal vs Liverpool - HD - Người Cồn
+#EXTINF:-1 tvg-id="1yMmBYr" tvg-name="Heidenheimer vs Bayer Leverkusen - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Heidenheimer vs Bayer Leverkusen - HD - Người Già
+https://live-eu-cizve9esipliv.thapcam.link/oldHD/index.m3u8
+#EXTINF:-1 tvg-id="1yMmBYr" tvg-name="Heidenheimer vs Bayer Leverkusen - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",Heidenheimer vs Bayer Leverkusen - FullHD - Người Già
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="o5EhM86" tvg-name="VfL Wolfsburg vs Borussia Dortmund - HD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfL Wolfsburg vs Borussia Dortmund - HD - Bún Chả
+https://live-eu-cizve9esipliv.thapcam.link/chaHD/index.m3u8
+#EXTINF:-1 tvg-id="o5EhM86" tvg-name="VfL Wolfsburg vs Borussia Dortmund - FullHD" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Bundesliga",VfL Wolfsburg vs Borussia Dortmund - FullHD - Bún Chả
+https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="8I7ivlw" tvg-name="Burnley vs Arsenal - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Arsenal - HD - Người Cồn
 https://live-eu-cizve9esipliv.thapcam.link/may1HD/index.m3u8
-#EXTINF:-1 tvg-id="HJdJ7xN" tvg-name="Off fan Arsenal vs Liverpool - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Off fan Arsenal vs Liverpool - FullHD - Người Cồn
+#EXTINF:-1 tvg-id="8I7ivlw" tvg-name="Burnley vs Arsenal - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Burnley vs Arsenal - FullHD - Người Cồn
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="cZfpdT4" tvg-name="Arsenal vs Off fan Liverpool - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Off fan Liverpool - HD - Người Sói
+#EXTINF:-1 tvg-id="LD105GZ" tvg-name="Fulham vs Aston Villa - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Aston Villa - HD - Bánh Cuốn
+https://live-eu-cizve9esipliv.thapcam.link/cuonHD/index.m3u8
+#EXTINF:-1 tvg-id="LD105GZ" tvg-name="Fulham vs Aston Villa - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Fulham vs Aston Villa - FullHD - Bánh Cuốn
+https://obevcimanyd179249207.thapcam.link/live/cuonFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="sLonmXV" tvg-name="Newcastle United vs Bournemouth AFC - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Bournemouth AFC - HD - Người Thỏ
+https://live-eu-cizve9esipliv.thapcam.link/may2HD/index.m3u8
+#EXTINF:-1 tvg-id="sLonmXV" tvg-name="Newcastle United vs Bournemouth AFC - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Newcastle United vs Bournemouth AFC - FullHD - Người Thỏ
+https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="7wMrHGU" tvg-name="Nottingham Forest vs West Ham United - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Nottingham Forest vs West Ham United - HD - Người Sói
 https://live-eu-cizve9esipliv.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 tvg-id="cZfpdT4" tvg-name="Arsenal vs Off fan Liverpool - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Arsenal vs Off fan Liverpool - FullHD - Người Sói
+#EXTINF:-1 tvg-id="7wMrHGU" tvg-name="Nottingham Forest vs West Ham United - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Nottingham Forest vs West Ham United - FullHD - Người Sói
 https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="H5GVpUX" tvg-name="Tottenham Hotspur vs Wolves - HD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Tottenham Hotspur vs Wolves - HD - Người Nện
+https://live-eu-cizve9esipliv.thapcam.link/Z1HD/index.m3u8
+#EXTINF:-1 tvg-id="H5GVpUX" tvg-name="Tottenham Hotspur vs Wolves - FullHD" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngoại hạng Anh",Tottenham Hotspur vs Wolves - FullHD - Người Nện
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8
